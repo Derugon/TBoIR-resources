@@ -1,9 +1,9 @@
 # TBoIR
 Resources of *The Binding of Isaac: Rebirth*, for each game version.
 
-Each folder contains the "resource" folder of the game, and "tools" for Afterbirth+ versions.
+Each branch contains the resource folders of the game.
 
-The compiled files are not included.
+Compiled files and tools are not included.
 
 | Game edition | Patch        | Notes                  |
 |--------------|--------------|------------------------|
