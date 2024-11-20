@@ -28,4 +28,4 @@ The compiled files are not included.
 | Repentance   | 1.7.9b.J835  | 1.7.9b patch           |
 | Repentance+  | 1.9.7.4.J134 |                        |
 | Repentance+  | 1.9.7.4.J135 | release                |
-| Repentance+  | [1.9.7.5.J138](tree/1.9.7.5.J138) |                        |
+| Repentance+  | 1.9.7.5.J138 |                        |
