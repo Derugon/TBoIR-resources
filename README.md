@@ -1,15 +1,21 @@
 # TBoIR
 Resources of *The Binding of Isaac: Rebirth*, for each game version.
 
-Each branch contains the resource folders of the game. Branch names match game version names, and may include a `-hotfix<N>` suffix when a version was re-released with the same version number. 
+Each branch contains the resource folders of the game. Branch names match game version names, and may include a `-hotfix<N>` suffix when a version was re-released with the same version number.
 
-Compiled files and tools are not included.
+The `latest` branch contains resources from the latest game version: 1.9.7.5.J138.
+
+### Version list
 
 | Game edition | Date (UTC)          | Patch        | Notes                  |
 |--------------|---------------------|--------------|------------------------|
+| Rebirth      | 2014-11-08 02:35:48 | 1.01-hotfix1 |                        |
+| Rebirth      | 2014-11-12 03:33:35 | 1.02-hotfix2 |                        |
 | Rebirth      | 2014-11-12 06:08:38 | 1.02-hotfix3 |                        |
 | Rebirth      | 2014-12-29 17:40:36 | 1.041        |                        |
-| Rebirth      | 2015-02-07 00:32:31 | 1.05-hotfix1 |                        |
+| Rebirth      | 2015-02-07 00:32:31 | 1.05         |                        |
+| Rebirth      | 2015-02-07 03:01:58 | 1.05-hotfix1 |                        |
+| Rebirth      | 2015-02-07 03:38:41 | 1.05-hotfix2 |                        |
 | Rebirth      |                     | 1.05 patch   |                        |
 | Afterbirth   |                     | 1.06.0109    |                        |
 | Afterbirth+  |                     | 1.06.J85     | Booster Pack 2 patch   |
@@ -33,5 +39,7 @@ Compiled files and tools are not included.
 | Repentance+  | 2024-11-18 09:55:01 | 1.9.7.4.J135 | release                |
 | Repentance+  | 2024-11-20 02:30:37 | 1.9.7.5.J138 |                        |
 
-Notes:
-- *Repentance+* files still includes a `resources-dlc3` folder, but it seems unused.
+### Notes
+- Compressed files and tools are not included.
+- Some files are missing, mostly for the *Rebirth* and *Afterbirth* versions, because I don't know how they were named. The full file name list (for all versions) used to extract these files can be found in [`filelist.txt`](filelist.txt). Feel free open an issue/pr if you have any file name to add, all branches will be updated automatically.
+- *Repentance+* files include a `resources-dlc3` folder, but it seems unused.
