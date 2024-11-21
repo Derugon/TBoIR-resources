@@ -1,12 +1,15 @@
 # TBoIR
 Resources of *The Binding of Isaac: Rebirth*, for each game version.
 
-Each branch contains the resource folders of the game.
+Each branch contains the resource folders of the game. Branch names match game version names, and may include a `-hotfix<N>` suffix when a version was re-released with the same version number. 
 
 Compiled files and tools are not included.
 
-| Game edition | Date (UTC) | Patch        | Notes                  |
+| Game edition | Date (UTC)          | Patch        | Notes                  |
 |--------------|---------------------|--------------|------------------------|
+| Rebirth      | 2014-11-12 06:08:38 | 1.02-hotfix3 |                        |
+| Rebirth      | 2014-12-29 17:40:36 | 1.041        |                        |
+| Rebirth      | 2015-02-07 00:32:31 | 1.05-hotfix1 |                        |
 | Rebirth      |                     | 1.05 patch   |                        |
 | Afterbirth   |                     | 1.06.0109    |                        |
 | Afterbirth+  |                     | 1.06.J85     | Booster Pack 2 patch   |
@@ -29,3 +32,6 @@ Compiled files and tools are not included.
 | Repentance+  | 2024-11-18 03:00:55 | 1.9.7.4.J134 |                        |
 | Repentance+  | 2024-11-18 09:55:01 | 1.9.7.4.J135 | release                |
 | Repentance+  | 2024-11-20 02:30:37 | 1.9.7.5.J138 |                        |
+
+Notes:
+- *Repentance+* files still includes a `resources-dlc3` folder, but it seems unused.
