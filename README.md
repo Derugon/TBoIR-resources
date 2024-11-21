@@ -40,6 +40,6 @@ The `latest` branch contains resources from the latest game version: 1.9.7.5.J13
 | Repentance+  | 2024-11-20 02:30:37 | 1.9.7.5.J138 |                        |
 
 ### Notes
-- Compressed files and tools are not included.
+- Executables, compressed files, and tools are not included. The intent behind this repository is to simplify wiki maintenance, not for hacking the game.
 - Some files are missing, mostly for the *Rebirth* and *Afterbirth* versions, because I don't know how they were named. The full file name list (for all versions) used to extract these files can be found in [`filelist.txt`](filelist.txt). Feel free open an issue/pr if you have any file name to add, all branches will be updated automatically.
 - *Repentance+* files include a `resources-dlc3` folder, but it seems unused.
