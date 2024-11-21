@@ -1,4 +1,6 @@
 # TBoIR
+**Work in progress: I'm moving each subfolder to its own branch, do not rely on URLs from this branch.**
+
 Resources of *The Binding of Isaac: Rebirth*, for each game version.
 
 Each branch contains the resource folders of the game. Branch names match game version names, and may include a `-hotfix<N>` suffix when a version was re-released with the same version number.
