@@ -1,0 +1,76 @@
+<recipes>
+<!--
+Red Heart: h
+Soul Heart: s
+Eternal Heart: e
+Black Heart: b
+Gold Heart: g
+Bone Heart: B
+Rotten Heart: r
+
+Penny: .
+Nickel: o
+Dime: O
+Golden Penny: $
+Lucky Penny: Q
+
+Bomb: v
+Golden Bomb: ^
+Giga Bomb: V
+
+Key: /
+Golden Key: |
+Charged Key: %
+
+Micro Battery: 1
+Lil Battery: 2
+Mega Battery: 3
+Golden Battery: 4
+
+Pill: (
+Golden Pill: {
+Card: [
+Rune: >
+Dice Shard: ?
+Cracked Key: ~
+
+Poop Nugget: _
+--> 
+	<!--The Poop-->
+	<recipe input="________" output="36"/>
+	<!--Yum Heart-->
+	<recipe input="hhhhhhhh" output="45"/>
+	<!--PhD-->
+	<recipe input="((((((((" output="75"/>
+	<!--Deck of Cards-->
+	<recipe input="[[[[[[[[" output="85"/>
+	<!--Mr. Mega-->
+	<recipe input="vvvvvvvv" output="106"/>
+	<!--Brimstone-->
+	<recipe input="bbbbbbbb" output="118"/>
+	<!--Dad's Key-->
+	<recipe input="||//////" output="175"/>
+	<!--Portable Slot-->
+	<recipe input="........" output="177"/>
+	<!--Sacred Heart-->
+	<recipe input="eeeeeeee" output="182"/>
+	<!--Godhead-->
+	<recipe input="gsheeeee" output="331"/>
+	<!--Latch Key-->
+	<recipe input="////////" output="343"/>
+	<!--Mama Mega!-->
+	<recipe input="VVVVVVVV" output="483"/>
+	<recipe input="^^vvvvvv" output="483"/>
+	<!--D Infinity-->
+	<recipe input="????????" output="489"/>
+	<!--Red Key-->
+	<recipe input="~~~~~~~~" output="580"/>
+	<!--Death Certificate-->
+	<recipe input="BBBBBBBB" output="628"/>
+	<!--Yuck Heart-->
+	<recipe input="rrhhhhhh" output="639"/>
+	<!--False PhD-->
+	<recipe input="b(((((((" output="654"/>
+	<!--Soul Locket-->
+	<recipe input="ssssssss" output="686"/>
+</recipes>
