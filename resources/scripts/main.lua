@@ -616,6 +616,26 @@ end
 EndClass()
 
 ---------------------------------------------------------
+BeginClass(Entity)
+
+local Entity_KillWithoutSource = META0.KillWithoutSource
+function META:Kill()
+	Entity_KillWithoutSource(self)
+end
+
+EndClass()
+
+---------------------------------------------------------
+BeginClass(GridEntity)
+
+local GridEntity_DestroyWithoutSource = META0.DestroyWithoutSource
+function META:Destroy(immediate)
+	GridEntity_DestroyWithoutSource(self, immediate)
+end
+
+EndClass()
+
+---------------------------------------------------------
 BeginClass(Sprite)
 
 -- void Sprite:SetFrame(int Frame)

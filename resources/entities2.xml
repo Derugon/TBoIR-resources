@@ -3094,7 +3094,7 @@
     <entity anm2path="1000.031_Dr. Fetus Rocket.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="1" friction="1" id="1000" name="Dr. Fetus Rocket" numGridCollisionPoints="0" shadowSize="22" stageHP="0" variant="31">
         <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
     </entity>
-    <entity anm2path="1000.032_Lemon Mishap.anm2" baseHP="0" boss="0" champion="0" collisionDamage="8" collisionMass="0" collisionRadius="78" friction="1" id="1000" name="Lemon Mishap" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="32">
+    <entity anm2path="1000.032_Lemon Mishap.anm2" baseHP="0" boss="0" champion="0" collisionDamage="8" collisionMass="0" collisionRadius="60" friction="1" id="1000" name="Lemon Mishap" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="32">
         <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
     </entity>
     <entity anm2path="1000.078_Lemon Party.anm2" baseHP="0" boss="0" champion="0" collisionDamage="8" collisionMass="0" collisionRadius="170" friction="1" id="1000" name="Lemon Party" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="78">

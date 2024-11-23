@@ -41,7 +41,7 @@
 	<!-- Mom's Bra -->
 	<locust id="39" tearFlags2="5" color="fly_grey" />
 	<!-- Dr. Fetus -->
-	<locust id="52" locustFlags="0" procChance="0.5" color="fly_yellow" />
+	<locust id="52" locustFlags2="0" procChance="0.5" color="fly_yellow" />
 	<!-- Kamikaze! -->
 	<locust id="40" locustFlags2="0" procChance="0.3" color="fly_yellow" />
 	<!-- Mom's Pad -->
@@ -53,7 +53,7 @@
 	<!-- Book of Shadows -->
 	<locust id="58" tearFlags2="34" procChance="0.3" color="fly_cyan" />
 	<!-- Charm of the Vampire -->
-	<locust id="62" tearFlags="106" color="fly_darkred" />
+	<locust id="62" tearFlags2="106" color="fly_darkred" />
 	<!-- The Battery -->
 	<locust id="63" tearFlags2="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
 	<!-- Anarchist Cookbook -->
@@ -101,17 +101,17 @@
 	<!-- Brimstone -->
 	<locust id="118" speed="1" scale="1.25" color="fly_black" gfx="big.png" />
 	<!-- Dead Sea Scrolls -->
-	<locust id="124" locustFlags="1" color="fly_pink" />
+	<locust id="124" locustFlags2="1" color="fly_pink" />
 	<!-- Bobby-Bomb -->
-	<locust id="125" locustFlags="0" procChance="0.3" color="fly_yellow" />
+	<locust id="125" locustFlags2="0" procChance="0.3" color="fly_yellow" />
 	<!-- Best Friend -->
-	<locust id="136" locustFlags="0" procChance="0.3" color="fly_yellow" />
+	<locust id="136" locustFlags2="0" procChance="0.3" color="fly_yellow" />
 	<!-- Remote Detonator -->
-	<locust id="137" locustFlags="0" procChance="0.3" color="fly_yellow" />
+	<locust id="137" locustFlags2="0" procChance="0.3" color="fly_yellow" />
 	<!-- Bob's Curse -->
 	<locust id="140" tearFlags2="4" procChance="0.3" locustFlags="0" color="fly_yellow" />
 	<!-- Ipecac -->
-	<locust id="149" speed="0.8" scale="1.25" color="fly_green" tearFlags="4" locustFlags="0" procChance=".8" gfx="big.png" />
+	<locust id="149" speed="0.8" scale="1.25" color="fly_green" tearFlags2="4" locustFlags2="0" procChance=".8" gfx="big.png" />
 	<!-- Mutant Spider -->
 	<locust id="153" locustFlag="2" scale=".75" color="fly_red" />
 	<locust id="153" locustFlags="2" scale=".75" color="fly_red" />
@@ -122,9 +122,9 @@
 	<!-- Celtic Cross -->
 	<locust id="162" tearFlags2="34" procChance="0.5" color="fly_cyan" />
 	<!-- The Candle -->
-	<locust id="164" tearFlags="22" color="fly_orange" backGfx="flame.png" backColor="fly_orange" />
+	<locust id="164" tearFlags2="22" color="fly_orange" backGfx="flame.png" backColor="fly_orange" />
 	<!-- Epic Fetus -->
-	<locust id="168" locustFlags="0" procChance=".8" color="fly_yellow" />
+	<locust id="168" locustFlags2="0" procChance=".8" color="fly_yellow" />
 	<!-- Polyphemus -->
 	<locust id="169" scale="1.50" color="fly_red" gfx="big.png" />
 	<!-- Spider Butt -->
@@ -142,9 +142,9 @@
 	<!-- Guppy's Hairball -->
 	<locust id="187" tearFlags2="34" procChance="0.3" color="fly_cyan" />
 	<!-- Pyro -->
-	<locust id="190" locustFlags="0" procChance="0.4" color="fly_yellow" />
+	<locust id="190" locustFlags2="0" procChance="0.4" color="fly_yellow" />
 	<!-- 3 Dollar Bill -->
-	<locust id="191" locustFlags="1" color="fly_pink" />
+	<locust id="191" locustFlags2="1" color="fly_pink" />
 	<!-- Telepathy for Dummies -->
 	<locust id="192" tearFlags="2" color="fly_purple" />
 	<!-- Mom's Eyeshadow -->
@@ -162,7 +162,7 @@
 	<!-- Lost Contact -->
 	<locust id="213" tearFlags="34" procChance="1" color="fly_cyan" />
 	<!-- Sad Bombs -->
-	<locust id="220" locustFlags="0" procChance="0.3" color="fly_yellow" />
+	<locust id="220" locustFlags2="0" procChance="0.3" color="fly_yellow" />
 	<!-- Cricket's Body -->
 	<locust id="224" locustFlags="2" scale=".25" color="fly_red" />
 	<locust id="224" locustFlags="2" scale=".25" color="fly_red" />
@@ -179,7 +179,7 @@
 	<!-- Infamy -->
 	<locust id="242" tearFlags2="34" procChance="0.5" color="fly_cyan" />
 	<!-- Trinity Shield -->
-	<locust id="243" tearFlags="34" procChance="0.8" color="fly_cyan" />
+	<locust id="243" tearFlags2="34" procChance="0.8" color="fly_cyan" />
 	<!-- Tech.5 -->
 	<locust id="244" tearFlags2="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
 	<!-- 20/20 -->
@@ -188,25 +188,25 @@
 	<!-- Hive Mind -->
 	<locust id="248" scale="2" color="fly_red" gfx="big.png" />
 	<!-- BOGO Bombs -->
-	<locust id="250" locustFlags="0" procChance="0.3" color="fly_yellow" />
+	<locust id="250" locustFlags2="0" procChance="0.3" color="fly_yellow" />
 	<!-- Hot Bombs -->
 	<locust id="256" tearFlags2="22" locustFlags="0" procChance="0.3" color="fly_yellow" />
 	<!-- Missing No. -->
-	<locust id="258" locustFlags="1" color="fly_pink" />
+	<locust id="258" locustFlags2="1" color="fly_pink" />
 	<!-- Dark Matter -->
 	<locust id="259" tearFlags2="20" color="fly_black" />
 	<!-- Fire Mind -->
-	<locust id="257" tearFlags="22" color="fly_orange" backGfx="flame.png" backColor="fly_orange" />
+	<locust id="257" tearFlags2="22" color="fly_orange" backGfx="flame.png" backColor="fly_orange" />
 	<!-- Smart Fly -->
 	<locust id="264" tearFlags="2" color="fly_purple" />
 	<!-- Dry Baby -->
-	<locust id="265" tearFlags="34" procChance="0.5" color="fly_cyan" />
+	<locust id="265" tearFlags2="34" procChance="0.5" color="fly_cyan" />
 	<!-- Juicy Sack -->
 	<locust id="266" tearFlags2="3" color="fly_lightgrey" />
 	<!-- Robo-Baby 2.0 -->
 	<locust id="267" tearFlags2="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
 	<!-- BBF -->
-	<locust id="272" locustFlags="0" procChance="0.3" color="fly_yellow" />
+	<locust id="272" locustFlags2="0" procChance="0.3" color="fly_yellow" />
 	<!-- Bob's Brain -->
 	<locust id="273" tearFlags2="4" procChance="0.3" locustFlags="0" color="fly_yellow" />
 	<!-- Isaac's Heart -->
@@ -214,11 +214,11 @@
 	<!-- Lil Haunt -->
 	<locust id="277" tearFlags2="20" color="fly_black" />
 	<!-- Big Fan -->
-	<locust id="279" tearFlags="34" speed="0.4" procChance="0.5" scale="1.25" color="fly_cyan" />
+	<locust id="279" tearFlags2="34" speed="0.4" procChance="0.5" scale="1.25" color="fly_cyan" />
 	<!-- Punching Bag -->
-	<locust id="281" tearFlags="34"  procChance="0.3"color="fly_cyan" />
+	<locust id="281" tearFlags2="34"  procChance="0.3"color="fly_cyan" />
 	<!-- Red Candle -->
-	<locust id="289" tearFlags="22" color="fly_orange" backGfx="flame.png" backColor="fly_orange" />
+	<locust id="289" tearFlags2="22" color="fly_orange" backGfx="flame.png" backColor="fly_orange" />
 	<!-- Butter Bean -->
 	<locust id="294" tearFlags2="64" color="fly_blue" />
 	<!-- Unicorn Stump -->
@@ -228,13 +228,13 @@
 	<!-- Virgo -->
 	<locust id="303" tearFlags2="34" procChance="0.3" color="fly_cyan" />
 	<!-- Scorpio -->
-	<locust id="305" tearFlags="4" procChance="1" color="fly_green" />
+	<locust id="305" tearFlags2="4" procChance="1" color="fly_green" />
 	<!-- Pisces -->
 	<locust id="309" tearFlags2="64" color="fly_blue" />
 	<!-- Eve's Mascara -->
 	<locust id="310" speed="0.8" scale="1.25" color="fly_black" />
 	<!-- Holy Mantle -->
-	<locust id="313" tearFlags="34" procChance="1" color="fly_cyan" />
+	<locust id="313" tearFlags2="34" procChance="1" color="fly_cyan" />
 	<!-- Strange Attractor -->
 	<locust id="315" tearFlags2="66" color="fly_grey" />
 	<!-- Mysterious Liquid -->
@@ -259,7 +259,7 @@
 	<!-- Mega Bean -->
 	<locust id="351" tearFlags2="4 64" color="fly_green" />
 	<!-- Bomber Boy -->
-	<locust id="353" locustFlags="0" procChance="0.5" color="fly_yellow" />
+	<locust id="353" locustFlags2="0" procChance="0.5" color="fly_yellow" />
 	<!-- Car Battery -->
 	<locust id="356" tearFlags2="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
 	<!-- Incubus -->
@@ -268,20 +268,20 @@
 	<!-- Sworn Protector -->
 	<locust id="363" tearFlags2="34" procChance="0.3" color="fly_cyan" />
 	<!-- Scatter Bombs -->
-	<locust id="366" locustFlags="0 2" procChance="0.3" color="fly_yellow" />
-	<locust id="366" locustFlags="0 2" procChance="0.3" color="fly_yellow" />
+	<locust id="366" locustFlags2="0 2" procChance="0.3" color="fly_yellow" />
+	<locust id="366" locustFlags2="0 2" procChance="0.3" color="fly_yellow" />
 	<!-- Sticky Bombs -->
 	<locust id="367" tearFlags2="3" locustFlags="0" procChance="0.3" color="fly_yellow" />
 	<!-- Curse of the Tower -->
-	<locust id="371" locustFlags="0" procChance="0.3" color="fly_yellow" />
+	<locust id="371" locustFlags2="0" procChance="0.3" color="fly_yellow" />
 	<!-- Charged Baby -->
 	<locust id="372" tearFlags2="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
 	<!-- Holy Light -->
 	<locust id="374" tearFlags2="39" color="fly_white" backGfx="glow.png" backColor="fly_cyan" />
 	<!-- Host Hat -->
-	<locust id="375" tearFlags="34" procChance="0.8" color="fly_cyan" />
+	<locust id="375" tearFlags2="34" procChance="0.8" color="fly_cyan" />
 	<!-- Number Two -->
-	<locust id="378" locustFlags="0" color="fly_yellow" />
+	<locust id="378" locustFlags2="0" color="fly_yellow" />
 	<!-- Pupula Duplex -->
 	<locust id="379" scale="1.2" color="fly_red" />
 	<!-- Censer -->
@@ -291,25 +291,25 @@
 	<!-- Serpent's Kiss -->
 	<locust id="393" tearFlags2="4" color="fly_green" />
 	<!-- Tech X -->
-	<locust id="395" tearFlags="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
+	<locust id="395" tearFlags2="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
 	<!-- God's Flesh -->
-	<locust id="398" tearFlags="43" color="fly_blue" />
+	<locust id="398" tearFlags2="43" color="fly_blue" />
 	<!-- Explosivo -->
-	<locust id="401" locustFlags="0" procChance="0.5" color="fly_yellow" />
+	<locust id="401" locustFlags2="0" procChance="0.5" color="fly_yellow" />
 	<!-- Chaos -->
-	<locust id="402" locustFlags="1" color="fly_pink" />
+	<locust id="402" locustFlags2="1" color="fly_pink" />
 	<!-- Spider Mod -->
-	<locust id="403" locustFlags="1" color="fly_pink" />
+	<locust id="403" locustFlags2="1" color="fly_pink" />
 	<!-- Farting Baby -->
 	<locust id="404" tearFlags2="4 34" procChance="0.4" color="fly_cyan" />
 	<!-- GB Bug -->
-	<locust id="405" locustFlags="1" color="fly_pink" />
+	<locust id="405" locustFlags2="1" color="fly_pink" />
 	<!-- Crown of Light -->
 	<locust id="415" tearFlags2="39" color="fly_white" backGfx="glow.png" backColor="fly_cyan" />
 	<!-- Succubus -->
 	<locust id="417" tearFlags="31" color="fly_white" backGfx="glow.png" backColor="fly_cyan" />
 	<!-- Fruit Cake -->
-	<locust id="418" locustFlags="1" color="fly_pink" />
+	<locust id="418" locustFlags2="1" color="fly_pink" />
 	<!-- Kidney Bean -->
 	<locust id="421" tearFlags2="13" color="fly_pink" />
 	<!-- Circle of Protection -->
@@ -317,15 +317,15 @@
 	<!-- Night Light -->
 	<locust id="425" tearFlags2="3" color="fly_lightgrey" />
 	<!-- Mine Crafter -->
-	<locust id="427" locustFlags="0" procChance="0.3" color="fly_yellow" />
+	<locust id="427" locustFlags2="0" procChance="0.3" color="fly_yellow" />
 	<!-- Glitter Bombs -->
-	<locust id="432" locustFlags="0 1" procChance="0.3" color="fly_yellow" />
+	<locust id="432" locustFlags2="0 1" procChance="0.3" color="fly_yellow" />
 	<!-- Mega Blast -->
 	<locust id="441" speed="1" scale="1.8" color="fly_black" gfx="big.png" />
 	<!-- Dead Tooth -->
 	<locust id="446" tearFlags2="4" color="fly_green" />
 	<!-- Shard of Glass -->
-	<locust id="448" tearFlags="106" color="fly_darkred" />
+	<locust id="448" tearFlags2="106" color="fly_darkred" />
 	<!-- Metal Plate -->
 	<locust id="449" tearFlags2="34" procChance="0.3" color="fly_cyan" />
 	<!-- Compound Fracture -->
@@ -343,11 +343,11 @@
 	<!-- Pause -->
 	<locust id="478" tearFlags2="5" color="fly_grey" />
 	<!-- Mama Mega -->
-	<locust id="483" locustFlags="0" procChance="0.4" scale="1.25" color="fly_yellow" />
+	<locust id="483" locustFlags2="0" procChance="0.4" scale="1.25" color="fly_yellow" />
 	<!-- Metronome -->
-	<locust id="488" locustFlags="1" color="fly_pink" />
+	<locust id="488" locustFlags2="1" color="fly_pink" />
 	<!-- Jacob's Ladder -->
-	<locust id="494" tearFlags="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
+	<locust id="494" tearFlags2="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
 	<!-- Ghost Pepper -->
 	<locust id="495" tearFlags2="22" color="fly_orange" backGfx="flame.png" backColor="fly_orange" />
 	<!-- Camo Undies -->
@@ -355,19 +355,19 @@
 	<!-- Large Zit -->
 	<locust id="502" tearFlags2="3" color="fly_lightgrey" />
 	<!-- Backstabber -->
-	<locust id="506" tearFlags="106" color="fly_darkred" />
+	<locust id="506" tearFlags2="106" color="fly_darkred" />
 	<!-- Mom's Razor -->
-	<locust id="508" tearFlags="106" color="fly_darkred" />
+	<locust id="508" tearFlags2="106" color="fly_darkred" />
 	<!-- Delirious -->
-	<locust id="510" locustFlags="1" color="fly_pink" />
+	<locust id="510" locustFlags2="1" color="fly_pink" />
 	<!-- Black Hole -->
 	<locust id="512" tearFlags2="66" color="fly_grey" />
 	<!-- Broken Modem -->
 	<locust id="514" tearFlags2="5 14" color="fly_grey" />
 	<!-- Fast Bombs -->
-	<locust id="517" locustFlags="0" procChance="0.4" color="fly_yellow" />
+	<locust id="517" locustFlags2="0" procChance="0.4" color="fly_yellow" />
 	<!-- Lil Delirium -->
-	<locust id="519" locustFlags="1" color="fly_pink" />
+	<locust id="519" locustFlags2="1" color="fly_pink" />
 	<!-- Jumper Cables -->
 	<locust id="520" tearFlags2="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
 	<!-- Technology Zero -->
@@ -395,15 +395,15 @@
 	<!-- 2Spooky -->
 	<locust id="554" tearFlags2="20" color="fly_black" />
 	<!-- 120 Volt -->
-	<locust id="559" tearFlags="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
+	<locust id="559" tearFlags2="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
 	<!-- Almond Milk -->
 	<locust id="561" speed="1.6" scale=".30" collisionInterval="3" color="fly_red" />-->
 	<!-- Nancy Bombs -->
-	<locust id="563" locustFlags="0 1" procChance="0.3" color="fly_yellow" />
+	<locust id="563" locustFlags2="0 1" procChance="0.3" color="fly_yellow" />
 	<!-- Divine Intervention -->
 	<locust id="568" tearFlags2="34" procChance="0.5" color="fly_cyan" />
 	<!-- Playdough Cookie -->
-	<locust id="570" locustFlags="1" color="fly_pink" />
+	<locust id="570" locustFlags2="1" color="fly_pink" />
 	<!-- Monstrance -->
 	<locust id="574" tearFlags="31" color="fly_white" backGfx="glow.png" backColor="fly_cyan" />
 	<!-- The Intruder -->
@@ -413,15 +413,15 @@
 	<!-- Psy Fly -->
 	<locust id="581" tearFlags="34" color="fly_cyan" />
 	<!-- Rocket in a Jar -->
-	<locust id="583" locustFlags="0" procChance="0.3" color="fly_yellow" />
+	<locust id="583" locustFlags2="0" procChance="0.3" color="fly_yellow" />
 	<!-- Venus -->
-	<locust id="591" tearFlags="13" color="fly_pink" />
+	<locust id="591" tearFlags2="13" color="fly_pink" />
 	<!-- Jupiter -->
 	<locust id="594" tearFlags2="4" color="fly_green" />
 	<!-- Uranus -->
 	<locust id="596" tearFlags2="65" color="fly_blue" />
 	<!-- Battery Pack -->
-	<locust id="603" tearFlags="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
+	<locust id="603" tearFlags2="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
 	<!-- Ocular Rift -->
 	<locust id="606" tearFlags2="66" color="fly_grey" />
 	<!-- Freezer Baby -->
@@ -433,9 +433,9 @@
 	<!-- Lodestone -->
 	<locust id="617" tearFlags2="66" color="fly_grey" />
 	<!-- Rotten Tomato -->
-	<locust id="618" tearFlags="13" color="fly_pink" />
+	<locust id="618" tearFlags2="13" color="fly_pink" />
 	<!-- Genesis -->
-	<locust id="622" locustFlags="1" color="fly_pink" />
+	<locust id="622" locustFlags2="1" color="fly_pink" />
 	<!-- Mega Mush -->
 	<locust id="625" scale="1.8" collisionInterval="5" color="fly_red" gfx="big.png" />
 	<!-- Bot Fly -->
@@ -449,9 +449,9 @@
 	<!-- Tinytoma -->
 	<locust id="645" tearFlags2="34" procChance="0.3" color="fly_cyan" />
 	<!-- Brimstone Bombs -->
-	<locust id="646" locustFlags="0" procChance="0.6" color="fly_yellow" />
+	<locust id="646" locustFlags2="0" procChance="0.6" color="fly_yellow" />
 	<!-- 4.5 Volt -->
-	<locust id="647" tearFlags="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
+	<locust id="647" tearFlags2="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
 	<!-- Cube Baby -->
 	<locust id="652" tearFlags2="65" color="fly_blue" />
 	<!-- Tooth and Nail -->
@@ -459,7 +459,7 @@
 	<!-- Bone Spurs -->
 	<locust id="683" tearFlags2="51" color="fly_lightgrey" />
 	<!-- Glitched Crown -->
-	<locust id="689" locustFlags="1" color="fly_pink" />
+	<locust id="689" locustFlags2="1" color="fly_pink" />
 	<!-- Belly Jelly -->
 	<locust id="690" tearFlags2="64" color="fly_blue" />
 	<!-- The Swarm -->
@@ -472,21 +472,21 @@
 	<!-- TMTRAINER -->
 	<locust id="721" locustFlags="1" color="fly_pink" />
 	<!-- Ghost Bombs -->
-	<locust id="727" locustFlags="0" procChance="0.5" color="fly_yellow" />
+	<locust id="727" locustFlags2="0" procChance="0.5" color="fly_yellow" />
 	<!-- Abyss -->
-	<locust id="706" locustFlags="0" procChance="0.3" color="fly_yellow" />
+	<locust id="706" locustFlags2="0" procChance="0.3" color="fly_yellow" />
 	<locust id="706" tearFlags2="64" color="fly_blue" />
-	<locust id="706" locustFlags="1" color="fly_pink" />
+	<locust id="706" locustFlags2="1" color="fly_pink" />
 	<locust id="706" tearFlags2="51" color="fly_lightgrey" />
 	<locust id="706" tearFlags2="34" color="fly_cyan" />
 	<locust id="706" tearFlags2="22" color="fly_orange" backGfx="flame.png" backColor="fly_orange" />
 	<locust id="706" tearFlags2="66" color="fly_grey" />
-	<locust id="706" tearFlags="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
+	<locust id="706" tearFlags2="55" color="fly_cyan" overlayGfx="spark.png" overlayColor="fly_cyan" />
 	<locust id="706" tearFlags2="4" color="fly_green" />
-	<locust id="706" tearFlags="31" color="fly_white" backGfx="glow.png" backColor="fly_cyan" />
+	<locust id="706" tearFlags2="31" color="fly_white" backGfx="glow.png" backColor="fly_cyan" />
 	<locust id="706" tearFlags2="20" color="fly_black" />
 	<locust id="706" tearFlags2="3" color="fly_lightgrey" />
-	<locust id="706" tearFlags="106" color="fly_darkred" />
+	<locust id="706" tearFlags2="106" color="fly_darkred" />
 	<locust id="706" tearFlags2="14" color="fly_grey" />
 	<locust id="706" tearFlags2="39" color="fly_white" backGfx="glow.png" backColor="fly_cyan" />
 	<locust id="706" tearFlags="2" color="fly_purple" />
