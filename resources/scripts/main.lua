@@ -165,7 +165,7 @@ rawset(Isaac, "RunCallback", function(callbackID, ...) return RunCallback(callba
 ------------------------------------------------------------
 -- Constants
 
-REPENTANCE = true
+REPENTANCE_PLUS = true
 
 -- Vector.Zero
 rawset(Vector, "Zero", Vector(0,0))
@@ -472,6 +472,12 @@ function META:TrySpawnBlueWombDoor(firstTime, ignoreTime, force)
 	return Room_TrySpawnBlueWombDoor(self, firstTime or firstTime == nil, ignoreTime, force)
 end
 
+-- void Room:MamaMegaExplosion(Vector Position = Vector.Zero, EntityPlayer Player = nil)
+local Room_MamaMegaExplosion = META0.MamaMegaExplosion
+function META:MamaMegaExplosion(position, player)
+	return Room_MamaMegaExplosion(self, position or Vector.Zero, player)
+end
+
 EndClass()
 
 ---------------------------------------------------------
@@ -584,6 +590,18 @@ function META:ShowHallucination(frameCount, backdrop)
 	Game_ShowHallucination(self, frameCount, backdrop or BackdropType.NUM_BACKDROPS)
 end
 
+-- void Game:Fadein(float Speed, bool ShowIcon = true, const Color & FadeColor = KAGE::Graphics::Colors.Black)
+local Game_Fadein = META0.Fadein
+function META:Fadein(speed, show_icon, color)
+	Game_Fadein( self, speed, show_icon or true, color or KColor(0,0,0,255) )
+end
+
+-- void Game:Fadeout(float Speed, eFadeoutTarget Target, const Color & FadeColor = KAGE::Graphics::Colors.Black)
+local Game_Fadeout = META0.Fadeout
+function META:Fadeout(speed, target, color)
+	Game_Fadeout( self, speed, target, color or KColor(0,0,0,255) )
+end
+
 EndClass()
 
 ---------------------------------------------------------
@@ -615,27 +633,6 @@ end
 
 EndClass()
 
----------------------------------------------------------
-BeginClass(Entity)
-
-local Entity_KillWithoutSource = META0.KillWithoutSource
-function META:Kill()
-	Entity_KillWithoutSource(self)
-end
-
-EndClass()
-
----------------------------------------------------------
-BeginClass(GridEntity)
-
-local GridEntity_DestroyWithoutSource = META0.DestroyWithoutSource
-function META:Destroy(immediate)
-	GridEntity_DestroyWithoutSource(self, immediate)
-end
-
-EndClass()
-
----------------------------------------------------------
 BeginClass(Sprite)
 
 -- void Sprite:SetFrame(int Frame)

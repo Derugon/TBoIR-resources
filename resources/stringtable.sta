@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <stringtable>
-    <info version="1.0" modified="Tue Nov 19 17:07:06 2024" modifiedby="John"/>
+    <info version="1.0" modified="Tue Nov 26 21:29:43 2024" modifiedby="John"/>
     <languages>
         <language id="21" index="0" name="Key"/>
         <language id="0" index="1" name="English"/>
@@ -31221,6 +31221,16 @@
         </key>
         <key name="ONLINE_CHALLENGE_BLOCKED">
             <string>Cannot join lobby. You do not have the selected challenge unlocked.</string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+        </key>
+        <key name="ONLINE_USER_BANNED">
+            <string>Cannot join lobby. You have been banned by the host.</string>
             <string></string>
             <string></string>
             <string></string>
