@@ -5,7 +5,7 @@ Resources of *The Binding of Isaac: Rebirth*, for each game version.
 
 Each branch contains the resource folders of the game. Branch names match game version names, and may include a `-hotfix<N>` suffix when a version was re-released with the same version number.
 
-The `latest` branch contains resources from the latest game version: 1.9.7.5.J138.
+The `latest` branch contains resources from the latest game version: 1.9.7.7.J158.
 
 ### Version list
 
@@ -41,6 +41,7 @@ The `latest` branch contains resources from the latest game version: 1.9.7.5.J13
 | Repentance+  | 2024-11-18 09:55:01 | 1.9.7.4.J135 | release                |
 | Repentance+  | 2024-11-20 02:30:37 | 1.9.7.5.J138 |                        |
 | Repentance+  | 2024-11-23 03:05:57 | 1.9.7.6.J148 |                        |
+| Repentance+  | 2024-12-05 08:12:23 | 1.9.7.7.J158 |                        |
 
 ### Notes
 - Executables, compressed files, and tools are not included. The intent behind this repository is to simplify wiki maintenance, not for hacking the game.
