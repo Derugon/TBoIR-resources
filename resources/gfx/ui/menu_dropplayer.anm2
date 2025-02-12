@@ -1,0 +1,38 @@
+<AnimatedActor>
+	<Info Fps="30" CreatedBy="robot" CreatedOn="01-January-1979 12:00:00 AM" Version="0"/>
+	<Content>
+		<Spritesheets>
+			<Spritesheet Path="Effect_024_Streak.png" Id="0"/>
+		</Spritesheets>
+		<Layers>
+			<Layer Name="Streak" Id="0" SpritesheetId="0"/>
+			<Layer Name="Background" Id="1" SpritesheetId="0"/>
+		</Layers>
+		<Nulls>
+			<Null Name="Title" Id="0"/>
+		</Nulls>
+		<Events/>
+	</Content>
+	<Animations DefaultAnimation="Background">
+		<Animation Name="Background" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XPivot="0" YPivot="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="1" Visible="true">
+					<Frame XPosition="-480" YPosition="-270" XPivot="0" YPivot="0" XCrop="320" YCrop="24" Width="10" Height="10" XScale="9600" YScale="5400" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="155" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="0" Visible="true">
+					<Frame XPosition="-200" YPosition="-80" XPivot="0" YPivot="0" XCrop="0" YCrop="0" Width="400" Height="48" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+			</LayerAnimations>
+			<NullAnimations>
+				<NullAnimation NullId="0" Visible="true">
+					<Frame XPosition="0" YPosition="-60" XPivot="0" YPivot="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</NullAnimation>
+			</NullAnimations>
+			<Triggers/>
+		</Animation>
+	</Animations>
+</AnimatedActor>
+
