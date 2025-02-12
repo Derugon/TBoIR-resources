@@ -16871,7 +16871,6 @@ resources.zh/gfx/ui/seed paper.png
 resources/.archive_exclude
 resources/achievements.xml
 resources/ambush.xml
-resources/animations.b
 resources/archive_test2.a.cpp
 resources/babies.xml
 resources/backdrops.xml
@@ -27606,7 +27605,6 @@ resources/giantbook.xml
 resources/itempools.xml
 resources/items.xml
 resources/items_metadata.xml
-resources/keeper.a
 resources/locusts.xml
 resources/minibosses.xml
 resources/music.xml
@@ -27937,7 +27935,6 @@ resources/scripts/socket/tp.lua
 resources/scripts/socket/url.lua
 resources/scripts_v2/licenses
 resources/scripts_v2/this isnt ready yet dont get your hopes up
-resources/secret.a
 resources/seedmenu.xml
 resources/seeds.txt
 resources/sfx/angry gurgle 1.wav
