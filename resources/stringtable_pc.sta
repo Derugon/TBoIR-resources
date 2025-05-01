@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <stringtable>
-    <info version="1.0" modified="Wed Dec 4 23:15:54 2024" modifiedby="Jerm"/>
+    <info version="1.0" modified="Wed Feb 12 14:37:40 2025" modifiedby="Jerm"/>
     <languages>
         <language id="21" index="0" name="Key"/>
         <language id="0" index="1" name="English"/>
@@ -65,13 +65,13 @@
         </key>
         <key name="ONLINE_MODS_PERMABANNED">
             <string>Mods are not allowed in online play, please disable all mods and then restart the game.</string>
-            <string> </string>
-            <string> </string>
-            <string> </string>
-            <string> </string>
-            <string> </string>
-            <string> </string>
-            <string> </string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
         </key>
         <key name="UNRECOGNIZED_CONTROLLER_HEADER">
             <string>Unrecognized Gamepad!</string>
@@ -94,7 +94,7 @@
             <string></string>
         </key>
         <key name="CONFIRM_EXIT_GAME">
-            <string>Are you sure you want to exit?</string>
+            <string>Are you sure you want me to die?</string>
             <string></string>
             <string></string>
             <string></string>
