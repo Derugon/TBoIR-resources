@@ -165,6 +165,7 @@ rawset(Isaac, "RunCallback", function(callbackID, ...) return RunCallback(callba
 ------------------------------------------------------------
 -- Constants
 
+REPENTANCE = true
 REPENTANCE_PLUS = true
 
 -- Vector.Zero

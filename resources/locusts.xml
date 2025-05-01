@@ -17,6 +17,15 @@
 	<color name="fly_cyan" r="12" g="217" b="241" or="0" og="20" ob="50"/>
 	<color name="fly_white" r="255" g="255" b="255" or="60" og="60" ob="60"/>
 	
+	<!--
+		Default scales
+	-->
+	<scale quality="0" scale="0.8"/>
+	<scale quality="1" scale="0.9"/>
+	<scale quality="2" scale="1.0"/>
+	<scale quality="3" scale="1.1"/>
+	<scale quality="4" scale="1.2"/>
+	
 	<!-- The Inner Eye -->
 	<locust id="2" locustFlags="2" color="fly_red" />
 	<locust id="2" locustFlags="2" color="fly_red" />
@@ -244,7 +253,7 @@
 	<!-- Soy Milk -->
 	<locust id="330" speed="2" scale=".30" collisionInterval="3" color="fly_red" />-->
 	<!-- Godhead -->
-	<locust id="331" tearFlags="31" color="fly_white" backGfx="glow.png" backColor="fly_cyan" />
+	<locust id="331" tearFlags="31" color="fly_white" backGfx="glow.png" backColor="fly_cyan" shootGfx="anm2=tear_halo.anm2" />
 	<!-- Dead Onion -->
 	<locust id="336" speed="0.4" color="fly_red" />
 	<!-- Broken Watch -->
