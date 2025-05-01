@@ -37,7 +37,7 @@
 	<rune type="rune" pickup="3" achievement="92" description="#DAGAZ_DESCRIPTION" id="35" name="#DAGAZ_NAME" announcer="336" mimiccharge="6" />
 	<rune type="rune" pickup="4" achievement="93" description="#ANSUZ_DESCRIPTION" id="36" name="#ANSUZ_NAME" announcer="327" mimiccharge="2" />
 	<rune type="rune" pickup="4" achievement="94" description="#PERTHRO_DESCRIPTION" id="37" name="#PERTHRO_NAME" announcer="354" mimiccharge="4" />
-	<rune type="rune" pickup="4" achievement="95" description="#BERKANO_DESCRIPTION" id="38" name="#BERKANO_NAME" announcer="331" mimiccharge="2" />
+	<rune type="rune" pickup="4" achievement="95" description="#BERKANO_DESCRIPTION" id="38" name="#BERKANO_NAME" announcer="331" mimiccharge="4" />
 	<rune type="rune" pickup="4" achievement="96" description="#ALGIZ_DESCRIPTION" id="39" name="#ALGIZ_NAME" announcer="325" mimiccharge="4" />
 	<rune type="rune" pickup="4" achievement="233" description="#BLANK_RUNE_DESCRIPTION" id="40" name="#BLANK_RUNE_NAME" mimiccharge="3" />
 	<rune type="rune" pickup="7" achievement="309" description="#BLACK_RUNE_DESCRIPTION" id="41" name="#BLACK_RUNE_NAME" announcer="457" announcerdelay="150" mimiccharge="4" />

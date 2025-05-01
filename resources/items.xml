@@ -355,7 +355,7 @@
 	<active description="#PLACEBO_DESCRIPTION" gfx="Collectibles_348_Placebo.png" id="348" name="#PLACEBO_NAME" shopprice="10" maxcharges="4" />
 	<active achievement="244" description="#WOODEN_NICKEL_DESCRIPTION" gfx="Collectibles_349_WoodenNickel.png" id="349" name="#WOODEN_NICKEL_NAME" shopprice="10" maxcharges="1" />
 	<passive description="#TOXIC_SHOCK_DESCRIPTION" gfx="Collectibles_350_ToxicShock.png" id="350" name="#TOXIC_SHOCK_NAME" cache="color" />
-	<active description="#MEGA_BEAN_DESCRIPTION" gfx="Collectibles_351_MegaBean.png" id="351" name="#MEGA_BEAN_NAME" maxcharges="4" />
+	<active description="#MEGA_BEAN_DESCRIPTION" gfx="Collectibles_351_MegaBean.png" id="351" name="#MEGA_BEAN_NAME" maxcharges="6" />
 	<active description="#GLASS_CANNON_DESCRIPTION" gfx="Collectibles_352_GlassCannon.png" id="352" name="#GLASS_CANNON_NAME" maxcharges="110" chargetype="timed" />
 	<passive description="#BOMBER_BOY_DESCRIPTION" gfx="Collectibles_353_BomberBoy.png" id="353" name="#BOMBER_BOY_NAME" bombs="5" />
 	<passive description="#CRACK_JACKS_DESCRIPTION" gfx="Collectibles_354_CrackJacks.png" id="354" name="#CRACK_JACKS_NAME" maxhearts="2" hearts="4" />
@@ -618,7 +618,7 @@
 	<passive	id="590"	gfx="Collectibles_590_Mercurius.png" name="#MERCURIUS_NAME" description="#MERCURIUS_DESCRIPTION" cache="speed" />
 	<passive	id="591"	gfx="Collectibles_591_Venus.png" name="#VENUS_NAME" description="#VENUS_DESCRIPTION" maxhearts="2" hearts="4" />
 	<passive	id="592"	gfx="Collectibles_592_Terra.png" name="#TERRA_NAME" description="#TERRA_DESCRIPTION" cache="damage tearflag" />
-	<passive	id="593"	gfx="Collectibles_593_Mars.png" name="#MARS_NAME" description="#MARS_DESCRIPTION" cooldown="25" /><!-- Cooldown value must be greater than Entity_Player::MARS_CHARGE_UP_TIME or the item wont work -->
+	<passive	id="593"	gfx="Collectibles_593_Mars.png" name="#MARS_NAME" description="#MARS_DESCRIPTION" cooldown="10" />
 	<passive	id="594"	gfx="Collectibles_594_Jupiter.png" name="#JUPITER_NAME" description="#JUPITER_DESCRIPTION" maxhearts="4" hearts="4" cache="speed range" />
 	<passive	id="595"	gfx="Collectibles_595_Saturnus.png" name="#SATURNUS_NAME" description="#SATURNUS_DESCRIPTION" />
 	<passive	id="596"	gfx="Collectibles_596_Uranus.png" name="#URANUS_NAME" description="#URANUS_DESCRIPTION" cache="tearflag tearcolor" />

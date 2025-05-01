@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <stringtable>
-    <info version="1.0" modified="Tue Nov 26 21:29:43 2024" modifiedby="John"/>
+    <info version="1.0" modified="Thu Jan 30 21:21:42 2025" modifiedby="John"/>
     <languages>
         <language id="21" index="0" name="Key"/>
         <language id="0" index="1" name="English"/>
@@ -30399,6 +30399,16 @@
             <string></string>
             <string></string>
         </key>
+        <key name="NO_LOBBIES">
+            <string>No lobbies found</string>
+            <string> </string>
+            <string> </string>
+            <string> </string>
+            <string> </string>
+            <string> </string>
+            <string> </string>
+            <string> </string>
+        </key>
         <key name="IN_LOBBY">
             <string>Lobby</string>
             <string></string>
@@ -31171,16 +31181,6 @@
         </key>
         <key name="COOP_AWARD_ETERNAL_DESC">
             <string>Killed a boss with a ghost baby shot</string>
-            <string></string>
-            <string></string>
-            <string></string>
-            <string></string>
-            <string></string>
-            <string></string>
-            <string></string>
-        </key>
-        <key name="RUN_RESTART_NO_OTHER_PLAYERS">
-            <string>You are the only player in the group. Do you want to continue?</string>
             <string></string>
             <string></string>
             <string></string>
