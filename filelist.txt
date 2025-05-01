@@ -17800,6 +17800,7 @@ resources/gfx/1000.196_ground glow.anm2
 resources/gfx/1000.197_dead bird.anm2
 resources/gfx/1000.198_generic tracer.anm2
 resources/gfx/1000.199_ultra death scythe.anm2
+resources/gfx/1000.203_spawn pentagram.anm2
 resources/gfx/101.000_daddy long legs.anm2
 resources/gfx/101.001_triachnid.anm2
 resources/gfx/102.000_isaac (final boss).anm2
@@ -22974,6 +22975,7 @@ resources/gfx/effects/rock_particles.png
 resources/gfx/effects/shockwave.png
 resources/gfx/effects/shop_spikes.png
 resources/gfx/effects/smoke_cloud.png
+resources/gfx/effects/spawn_pentagram.png
 resources/gfx/effects/special_hangingguys.png
 resources/gfx/effects/spirit_sword.png
 resources/gfx/effects/splash_big.png
@@ -27707,6 +27709,7 @@ resources/music/repentance/backwards/genesis ii reverse mausoleum layer (bass).o
 resources/music/repentance/backwards/genesis ii reverse mines layer (drumz).ogg
 resources/music/repentance/boss alt.ogg
 resources/music/repentance/chased by death v3.ogg
+resources/music/repentance/corpse intro.ogg
 resources/music/repentance/corpse layer.ogg
 resources/music/repentance/corpse.ogg
 resources/music/repentance/deathmatch.ogg
@@ -28022,6 +28025,9 @@ resources/sfx/beast/sfx brimstone angelic blast_1.wav
 resources/sfx/berserkend.wav
 resources/sfx/berserkstart.wav
 resources/sfx/berserktick.wav
+resources/sfx/bigchubby_attack_01.wav
+resources/sfx/bigchubby_attack_02.wav
+resources/sfx/bigchubby_attack_03.wav
 resources/sfx/bigleech.wav
 resources/sfx/bigleech2.wav
 resources/sfx/bird flap 2.wav
@@ -28053,6 +28059,12 @@ resources/sfx/bone_break_01.wav
 resources/sfx/bone_break_02.wav
 resources/sfx/bone_break_03.wav
 resources/sfx/boo mad.wav
+resources/sfx/boomerang_catch.wav
+resources/sfx/boomerang_hit_01.wav
+resources/sfx/boomerang_hit_02.wav
+resources/sfx/boomerang_hit_03.wav
+resources/sfx/boomerang_loop.wav
+resources/sfx/boomerang_throw.wav
 resources/sfx/boss 2 bubbles 1.wav
 resources/sfx/boss 2 bubbles.wav
 resources/sfx/boss bug hiss.wav
@@ -28080,8 +28092,10 @@ resources/sfx/boss2_dive0.wav
 resources/sfx/boss2_dive3.wav
 resources/sfx/boss2_waterthrashing_reverb0.wav
 resources/sfx/boss2_waterthrashing_reverb1.wav
+resources/sfx/box_of_friends.wav
 resources/sfx/brownielaugh1.wav
 resources/sfx/brownielaugh2.wav
+resources/sfx/brown_nugget_spawn.wav
 resources/sfx/bulb_flash_0.wav
 resources/sfx/bulb_flash_1.wav
 resources/sfx/bulb_flash_2.wav
@@ -28105,6 +28119,10 @@ resources/sfx/bumbino/slam fists.wav
 resources/sfx/bumbino/snapping out of it 1.wav
 resources/sfx/bumbino/snapping out of it 2.wav
 resources/sfx/bumbino/snapping out of it 3.wav
+resources/sfx/bumbo_levelup_01.wav
+resources/sfx/bumbo_levelup_02.wav
+resources/sfx/bumbo_levelup_03.wav
+resources/sfx/bumbo_levelup_04.wav
 resources/sfx/button press.wav
 resources/sfx/candle_light.wav
 resources/sfx/cash_register.wav
@@ -28130,6 +28148,7 @@ resources/sfx/clap03.wav
 resources/sfx/close_railroad_track_raise04.wav
 resources/sfx/close_railroad_track_raise05.wav
 resources/sfx/close_railroad_track_raise07.wav
+resources/sfx/converter.wav
 resources/sfx/cute grunt 2.wav
 resources/sfx/cute grunt 3.wav
 resources/sfx/cute grunt.wav
@@ -28453,6 +28472,7 @@ resources/sfx/inflate.wav
 resources/sfx/inhale.wav
 resources/sfx/insect swarm.wav
 resources/sfx/isaacroar.wav
+resources/sfx/item_abyss.wav
 resources/sfx/jellybounce1.wav
 resources/sfx/jellybounce2.wav
 resources/sfx/jellybounce3.wav
@@ -28476,6 +28496,9 @@ resources/sfx/leech.wav
 resources/sfx/little spit 1.wav
 resources/sfx/little spit 2.wav
 resources/sfx/little spit 4.wav
+resources/sfx/littlechubby_attack_01.wav
+resources/sfx/littlechubby_attack_02.wav
+resources/sfx/littlechubby_attack_03.wav
 resources/sfx/littlehorncough.wav
 resources/sfx/littlehorngrunt1.wav
 resources/sfx/littlehorngrunt2.wav
@@ -28614,6 +28637,8 @@ resources/sfx/pooplaser3.wav
 resources/sfx/poop_itemhold.wav
 resources/sfx/poop_itemstore.wav
 resources/sfx/poop_itemthrow.wav
+resources/sfx/portal_entity_enter.wav
+resources/sfx/portal_entity_loop.wav
 resources/sfx/portal_loop.wav
 resources/sfx/pot breaking sound 2.wav
 resources/sfx/pot breaking sound 3.wav
