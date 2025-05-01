@@ -450,10 +450,10 @@ EndClass()
 ---------------------------------------------------------
 BeginClass(Room)
 
--- Vector Room:FindFreePickupSpawnPosition(Vector Pos, float InitialStep = 0, boolean AvoidActiveEntities = false, boolean AllowPits = false)
+-- Vector Room:FindFreePickupSpawnPosition(Vector Pos, float InitialStep = 0, boolean AvoidActiveEntities = false, boolean AllowPits = false, boolean avoidDoors = false)
 local Room_FindFreePickupSpawnPosition = META0.FindFreePickupSpawnPosition
-function META:FindFreePickupSpawnPosition(pos, initStep, avoidActive, allowPits)
-	return Room_FindFreePickupSpawnPosition(self, pos, initStep or 0, avoidActive, allowPits)
+function META:FindFreePickupSpawnPosition(pos, initStep, avoidActive, allowPits, avoidDoors)
+	return Room_FindFreePickupSpawnPosition(self, pos, initStep or 0, avoidActive, allowPits, avoidDoors or 0)
 end
 
 -- boolean, Vector Room:CheckLine(Vector Pos1, Vector Pos2, LinecheckMode Mode, int GridPathThreshold = 0, boolean IgnoreWalls = false, boolean IgnoreCrushable = false)

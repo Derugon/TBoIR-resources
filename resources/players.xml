@@ -9,7 +9,7 @@
           nameimage="PlayerName_02_Magdalene.png"
           portrait="PlayerPortrait_Magdalene.png" skinColor="-1"
 		  birthright="#MAGDALENE_BIRTHRIGHT" />
-	<player id="2" name="#CAIN_NAME" skin="Character_003_Cain.png" costume="8" hp="4" keys="1" items="46" achievement="2"
+	<player id="2" name="#CAIN_NAME" skin="Character_003_Cain.png" costume="8" hp="4" keys="1" achievement="2"
           nameimage="PlayerName_03_Cain.png" 
           portrait="PlayerPortrait_Cain.png" skinColor="-1"
 		  birthright="#CAIN_BIRTHRIGHT" />
@@ -21,11 +21,11 @@
           nameimage="PlayerName_06_BlueBaby.png" 
           portrait="PlayerPortrait_Bluebaby.png" skinColor="2" costumeSuffix="bluebaby"
 		  birthright="#BLUEBABY_BIRTHRIGHT" />
-	<player id="5" name="#EVE_NAME" skin="Character_005_Eve.png" costume="10" hp="4" items="122,117" achievement="42"
+	<player id="5" name="#EVE_NAME" skin="Character_005_Eve.png" costume="10" hp="4" achievement="42"
           nameimage="PlayerName_05_Eve.png" 
           portrait="PlayerPortrait_Eve.png" skinColor="-1"
 		  birthright="#EVE_BIRTHRIGHT" />
-	<player id="6" name="#SAMSON_NAME" skin="Character_007_Samson.png" costume="13" hp="6" items="157" achievement="67"
+	<player id="6" name="#SAMSON_NAME" skin="Character_007_Samson.png" costume="13" hp="6" achievement="67"
           nameimage="PlayerName_07_Samson.png" 
           portrait="PlayerPortrait_Samson.png" skinColor="-1"
 		  birthright="#SAMSON_BIRTHRIGHT" />
@@ -101,7 +101,7 @@
           nameimage="PlayerName_12_TheLost.png" 
           portrait="PlayerPortrait_TheLost.png" skinColor="0"
 		  birthright="#THE_LOST_BIRTHRIGHT" />
-	<player id="11" name="#LAZARUS2_NAME" skin="Character_010_Lazarus2.png" hp="2" items="214" achievement="80"
+	<player id="11" name="#LAZARUS2_NAME" skin="Character_010_Lazarus2.png" hp="2" achievement="80"
           nameimage="PlayerName_10_Lazarus.png" 
           portrait="PlayerPortrait_Lazarus2.png" costume="33" skinColor="-1"
 		  birthright="#LAZARUS2_BIRTHRIGHT" />
@@ -109,7 +109,7 @@
           nameimage="PlayerName_04_Judas.png" 
           portrait="PlayerPortrait_DarkJudas.png" skinColor="1" costumeSuffix="shadow"
 		  birthright="#BLACK_JUDAS_BIRTHRIGHT" />
-	<player id="13" name="#LILITH_NAME" skin="Character_014_Lilith.png" hp="2" black="4" canShoot="false" items="357,412" achievement="199"
+	<player id="13" name="#LILITH_NAME" skin="Character_014_Lilith.png" hp="2" black="4" canShoot="false" items="357" achievement="199"
           nameimage="PlayerName_13_Lilith.png" 
           portrait="PlayerPortrait_Lilith.png" costume="34" skinColor="1" costumeSuffix="lilith"
 		  birthright="#LILITH_BIRTHRIGHT" />
@@ -130,7 +130,7 @@
           portrait="PlayerPortrait_TheForgotten.png" skinColor="2" costumeSuffix="forgottensoul"
 		  birthright="#THE_SOUL_BIRTHRIGHT" />
 <!-- REPENTANCE BEGIN -->
-	<player id="18" name="#BETHANY_NAME" skin="Character_001x_Bethany.png" costume="51" items="584" hp="6" armor="4" achievement="404"
+	<player id="18" name="#BETHANY_NAME" skin="Character_001x_Bethany.png" costume="51" hp="6" armor="4" achievement="404"
           nameimage="PlayerName_01x_Bethany.png" 
           portrait="PlayerPortrait_Bethany.png" skinColor="-1"
 		  birthright="#BETHANY_BIRTHRIGHT" />

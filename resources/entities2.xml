@@ -2342,7 +2342,7 @@
         <bestiary anim="Walk" transform="0,0,1"/>
         <gibs amount="4" blood="1" bone="0" eye="0" gut="1" large="0"/>
         <preload-snd id="317"/>
-    	<devolve id="242.0.0" weight="1" />
+    	<devolve id="94.0.0" weight="1" />
 	</entity>
     <entity anm2path="241.000_Rage Creep.anm2" baseHP="10" boss="0" champion="1" collisionDamage="1" collisionMass="14" collisionRadius="13" friction="1" id="241" name="#RAGE_CREEP" numGridCollisionPoints="12" portrait="94" shadowSize="0" stageHP="0" tags="spider brimstone_soul" variant="0">
         <bestiary anim="Walk" transform="0,0,1"/>
@@ -5349,5 +5349,14 @@
         <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
     </entity>
 
+    <entity anm2path="1000.203_spawn pentagram.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="0" friction="1" id="1000" name="Spawn Pentagram" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="203">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+    </entity>
+    <entity anm2path="1000.203_spawn pentagram.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="0" friction="1" id="1000" name="Spawn Pentagram Boss" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="204">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+    </entity>
+    <entity anm2path="1000.022_Creep (Red).anm2" baseHP="0" boss="0" champion="0" collisionDamage="2" collisionMass="0" collisionRadius="1" friction="1" id="1000" name="Player Creep (Yellow)" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="204">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+    </entity>
 <!-- REPENTANCE+ End -->
 </entities>

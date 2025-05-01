@@ -663,17 +663,18 @@
 		<sample weight="1" path="Feedback/slotspawn 2.wav" />
 	</sound>
 	<sound id="258">
-		<sample weight="1" path="splatter 0.wav" />
+    <!--
+    <sample weight="1" path="splatter 0.wav" />
 		<sample weight="1" path="splatter 1.wav" />
 		<sample weight="1" path="splatter 2.wav" />
-	<!--
+	-->
 		<sample weight="1" path="V2/splatter 0.wav" />
 		<sample weight="1" path="V2/splatter 1.wav" />
 		<sample weight="1" path="V2/splatter 2.wav" />
 		<sample weight="1" path="V2/splatter 3.wav" />
 		<sample weight="1" path="V2/splatter 4.wav" />
 		<sample weight="1" path="V2/splatter 5.wav" />
-	-->
+
 	</sound>
 	<sound id="261">
 		<sample weight="1" path="steam half sec.wav" />
@@ -1832,7 +1833,7 @@
 		<sample weight="1" path="poop_itemstore.wav" />
 	</sound>
 	<sound id="607">
-		<sample weight="1" path="poop_itemhold.wav" />
+		<sample weight="1" path="ibs_poop_raise.wav" />
 	</sound>
 	<sound id="608">
 		<sample weight="1" path="mirrorenter.wav" />
@@ -2618,6 +2619,8 @@
 		<sample weight="1" path="promo/gfuel/rocketlauncher2.wav" />
 		<sample weight="1" path="promo/gfuel/rocketlauncher3.wav" />
 	</sound>
+<!-- REPENTANCE END -->
+<!-- REPENTANCE+ -->
 	<sound id="833">
 		<sample weight="1" path="deathmatch_intro1.wav" />
 		<sample weight="1" path="deathmatch_intro2.wav" />
@@ -2627,5 +2630,137 @@
 		<sample weight="1" path="deathmatch_intro6.wav" />
 		<sample weight="1" path="deathmatch_intro7.wav" />
 	</sound>
-<!-- REPENTANCE END -->
+	<sound id="834">
+		<sample weight="1" path="item_abyss.wav" />
+	</sound>
+	<sound id="835">
+		<sample weight="1" path="bigchubby_attack_01.wav" />
+		<sample weight="1" path="bigchubby_attack_02.wav" />
+		<sample weight="1" path="bigchubby_attack_03.wav" />
+	</sound>
+	<sound id="836">
+		<sample weight="1" path="boomerang_throw.wav" />
+	</sound>
+	<sound id="837">
+		<sample weight="1" path="boomerang_loop.wav" />
+	</sound>
+	<sound id="838">
+		<sample weight="1" path="boomerang_catch.wav" />
+	</sound>
+	<sound id="839">
+		<sample weight="1" path="boomerang_hit_01.wav" />
+		<sample weight="1" path="boomerang_hit_02.wav" />
+		<sample weight="1" path="boomerang_hit_03.wav" />
+	</sound>
+	<sound id="840">
+		<sample weight="1" path="box_of_friends.wav" />
+	</sound>
+	<sound id="841">
+		<sample weight="1" path="brown_nugget_spawn.wav" />
+	</sound>
+	<sound id="842">
+		<sample weight="1" path="bumbo_levelup_01.wav" />
+	</sound>
+	<sound id="843">
+		<sample weight="1" path="bumbo_levelup_02.wav" />
+	</sound>
+	<sound id="844">
+		<sample weight="1" path="bumbo_levelup_03.wav" />
+	</sound>
+	<sound id="845">
+		<sample weight="1" path="bumbo_levelup_04.wav" />
+	</sound>
+	<sound id="846">
+		<sample weight="1" path="portal_entity_loop.wav" />
+	</sound>
+	<sound id="847">
+		<sample weight="1" path="portal_entity_enter.wav" />
+	</sound>
+	<sound id="848">
+		<sample weight="1" path="converter.wav" />
+	</sound>
+	<sound id="849">
+		<sample weight="1" path="littlechubby_attack_01.wav" />
+		<sample weight="1" path="littlechubby_attack_02.wav" />
+		<sample weight="1" path="littlechubby_attack_03.wav" />
+	</sound>
+	<sound id="850">
+		<sample weight="1" path="crackedorb.wav" />
+	</sound>
+	<sound id="851">
+		<sample weight="1" path="crookedpenny.wav" />
+	</sound>
+	<sound id="852">
+		<sample weight="1" path="cubebaby_kick_01.wav" />
+		<sample weight="1" path="cubebaby_kick_02.wav" />
+		<sample weight="1" path="cubebaby_kick_03.wav" />
+		<sample weight="1" path="cubebaby_kick_04.wav" />
+	</sound>
+	<sound id="853">
+		<sample weight="1" path="darkbum_payout_01.wav" />
+		<sample weight="1" path="darkbum_payout_02.wav" />
+		<sample weight="1" path="darkbum_payout_03.wav" />
+	</sound>
+	<sound id="854">
+		<sample weight="1" path="dataminer_01.wav" />
+		<sample weight="1" path="dataminer_02.wav" />
+		<sample weight="1" path="dataminer_03.wav" />
+	</sound>
+	<sound id="855">
+		<sample weight="1" path="drsremote_warning.wav" />
+	</sound>
+	<sound id="856">
+		<sample weight="1" path="flip_poof.wav" />
+	</sound>
+	<sound id="857">
+		<sample weight="1" path="eraser_hitenemy.wav" />
+	</sound>
+	<sound id="858">
+		<sample weight="1" path="gnawedleaf_stone.wav" />
+	</sound>
+	<sound id="859">
+		<sample weight="1" path="lilhaunt_chase.wav" />
+	</sound>
+	<sound id="860">
+		<sample weight="1" path="lingerbean_cloud.wav" />
+	</sound>
+	<sound id="861">
+		<sample weight="1" path="glowinghourglass_activate.wav" />
+	</sound>
+	<sound id="862">
+		<sample weight="1" path="glowinghourglass_fizzle.wav" />
+	</sound>
+	<sound id="863">
+		<sample weight="1" path="infamy_deflect_01.wav" />
+		<sample weight="1" path="infamy_deflect_02.wav" />
+		<sample weight="1" path="infamy_deflect_03.wav" />
+	</sound>
+	<sound id="864">
+		<sample weight="1" path="ibs_gurgle.wav" />
+	</sound>
+	<sound id="865">
+		<sample weight="1" path="ibs_poop_throw.wav" />
+	</sound>
+	<sound id="866">
+		<sample weight="1" path="glitterbomb_boom.wav" />
+	</sound>
+	<sound id="867">
+		<sample weight="1" path="glitterbomb_fuse.wav" />
+	</sound>
+	<sound id="868">
+		<sample weight="1" path="littlehorn_shot.wav" />
+	</sound>
+	<sound id="869">
+		<sample weight="1" path="megabean_blast.wav" />
+	</sound>
+	<sound id="870">
+		<sample weight="1" path="moms_random_pill.wav" />
+	</sound>
+	<sound id="871">
+		<sample weight="1" path="summonpenta_wave.wav" />
+	</sound>
+	<sound id="872">
+		<sample weight="1" path="enemyappear_wave.wav" />
+	</sound>
+<!-- REPENTANCE+ END -->
 </sounds>

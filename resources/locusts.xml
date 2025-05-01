@@ -53,27 +53,27 @@
 	<!-- The Virus -->
 	<locust id="13" tearFlags2="4" gfx="anm2=locust_poof.anm2&animation=locust_poof" color="0-fly_gas&1-fly_green" />
 	<!-- Boom! -->
-	<locust id="19" locustFlags2="0" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="19" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Breakfast -->
 	<locust id="25" color="fly_red" />
 	<!-- The Necronomicon -->
-	<locust id="35" locustFlags2="4" procChance="0.1" gfx="anm2=locust_pulse.anm2&animation=locust_pulse" />
+	<locust id="35" locustFlags2="4" procChance="0.05" gfx="anm2=locust_pulse.anm2&animation=locust_pulse" />
 	<!-- The Poop -->
 	<locust id="36" tearFlags2="73" procChance="0.2" color="fly_brown" />
 	<!-- Mr. Boom -->
-	<locust id="37" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="37" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Mom's Bra -->
 	<locust id="39" tearFlags2="5" gfx="anm2=locust_petrify.anm2&animation=idle" shootGfx="anm2=locust_petrify.anm2&spritesheet=0-petrify_shoot.png&animation=shoot" />
 	<!-- Bob's Rotten Head -->
-	<locust id="42" locustFlags2="0" tearFlags2="4" procChance="0.3" gfx="anm2=locust_poof.anm2&animation=locust_poof" color="0-fly_gas&1-fly_green" />
+	<locust id="42" locustFlags2="0" tearFlags2="4" procChance="0.2" gfx="anm2=locust_poof.anm2&animation=locust_poof" color="0-fly_gas&1-fly_green" />
 	<!-- Teleport! -->
 	<locust id="44" speed="6" collisionInterval="1" shootGfx="anm2=locust_dash.anm2&animation=locust_dash" color="0-fly_red" />
 	<!-- Kamikaze! -->
-	<locust id="40" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="40" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Mom's Pad -->
 	<locust id="41" tearFlags2="20" color="fly_darkpurple" />
 	<!-- Doctor's Remote -->
-	<locust id="47" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="47" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Cupid's Arrow -->
 	<locust id="48" tearFlags="1" speed="1.3" collisionInterval="5" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-piercing.png" />
 	<!-- Shoop Da Whoop!-->
@@ -83,7 +83,7 @@
 	<!-- Magneto -->
 	<locust id="53" tearFlags2="66" color="fly_grey" overlayGfx="spark.png" overlayColor="fly_magnet" />
 	<!-- Lemon Mishap -->
-	<locust id="56" locustFlags2="14" procChance="0.3" gfx="anm2=locust_drip.anm2&animation=locust_drip" color="0-fly_yellow&1-fly_darkred"  />
+	<locust id="56" locustFlags2="14" procChance="0.5" gfx="anm2=locust_drip.anm2&animation=locust_drip" color="0-fly_yellow&1-fly_darkred"  />
 	<!-- Book of Shadows -->
 	<locust id="58" tearFlags="34" gfx="anm2=locust_shield.anm2&animation=locust_shield" color="0-fly_cyan&1-fly_cyan" />
 	<!-- Charm of the Vampire -->
@@ -93,7 +93,7 @@
 	<!-- Steam Sale -->
 	<locust id="64" tearFlags2="53" procChance="0.4" gfx="anm2=locust_gold.anm2&animation=locust_gold" color="0-fly_yellow" />
 	<!-- Anarchist Cookbook -->
-	<locust id="65" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="65" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- The Hourglass -->
 	<locust id="66" tearFlags2="3" gfx="anm2=locust_slow.anm2&animation=locust_slow" />
 	<!-- Technology -->
@@ -127,9 +127,9 @@
 	<locust id="104" locustFlags="2" scale=".60" color="fly_red" />
 	<locust id="104" locustFlags="2" scale=".60" color="fly_red" />
 	<!-- The D6 -->
-	<locust id="105" locustFlags="3" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
+	<locust id="105" locustFlags2="3" procChance="0.2" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
 	<!-- Mr. Mega -->
-	<locust id="106" locustFlags2="0" procChance="0.4" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="106" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- The Wafer -->
 	<locust id="108" tearFlags="34" gfx="anm2=locust_shield.anm2&animation=locust_shield" color="0-fly_cyan&1-fly_cyan" />
 	<!-- Mom's Contacts -->
@@ -151,11 +151,11 @@
 	<!-- A Pony -->
 	<locust id="130" speed="6" collisionInterval="1" shootGfx="anm2=locust_dash.anm2&animation=locust_dash" color="0-fly_red" />
 	<!-- Best Friend -->
-	<locust id="136" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="136" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Remote Detonator -->
 	<locust id="137" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Bob's Curse -->
-	<locust id="140" tearFlags2="4" procChance="0.3" locustFlags2="0" gfx="anm2=locust_poof.anm2&animation=locust_poof" color="0-fly_gas&1-fly_yellow" />
+	<locust id="140" tearFlags2="4" procChance="0.2" locustFlags2="0" gfx="anm2=locust_poof.anm2&animation=locust_poof" color="0-fly_gas&1-fly_yellow" />
 	<!-- Bum Friend -->
 	<locust id="144" locustFlags="18" />
 	<!-- Notched Axe -->
@@ -180,7 +180,7 @@
 	<!-- Cat-o-nine-tails -->
 	<locust id="165" speed="1.3" collisionInterval="6" color="fly_red" />
 	<!-- D20 -->
-	<locust id="166" locustFlags="3" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
+	<locust id="166" locustFlags2="3" procChance="0.2" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
 	<!-- Epic Fetus -->
 	<locust id="168" locustFlags2="0" procChance=".8" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Polyphemus -->
@@ -222,7 +222,7 @@
 	<!-- Ball of Bandages -->
 	<locust id="207" tearFlags="34" gfx="anm2=locust_shield.anm2&animation=locust_shield" color="0-fly_cyan&1-fly_cyan" />
 	<!-- Butt Bombs -->
-	<locust id="209" tearFlags2="4" procChance="0.3" locustFlags2="0" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" color="0-fly_green" />
+	<locust id="209" tearFlags2="4" procChance="0.2" locustFlags2="0" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" color="0-fly_green" />
 	<!-- Gnawed Leaf -->
 	<locust id="210" tearFlags="34" gfx="anm2=locust_shield.anm2&animation=locust_shield" color="0-fly_cyan&1-fly_cyan" />
 	<!-- Lost Contact -->
@@ -230,7 +230,7 @@
 	<!-- Anemic -->
 	<locust id="214" locustFlags2="15" procChance="0.3" gfx="anm2=locust_drip.anm2&animation=locust_drip" color="0-fly_red&1-fly_darkred" />
 	<!-- Sad Bombs -->
-	<locust id="220" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="220" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Cricket's Body -->
 	<locust id="224" locustFlags="2" scale=".7" color="fly_red" />
 	<locust id="224" locustFlags="2" scale=".7" color="fly_red" />
@@ -267,11 +267,11 @@
 	<!-- Hive Mind -->
 	<locust id="248" scale="1.5" speed="0.75" damageMultiplier="2.5" color="fly_red" gfx="big.png" />
 	<!-- BOGO Bombs -->
-	<locust id="250" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="250" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!--  Blood Clot -->
 	<locust id="254" damageMultiplier2="1.2" procChance="0.5" gfx="anm2=locust_pulse.anm2&animation=locust_pulse" color="0-fly_yellow&1-fly_red" />
 	<!-- Hot Bombs -->
-	<locust id="256" tearFlags2="22" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" color="0-fly_orange" />
+	<locust id="256" tearFlags2="22" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" color="0-fly_orange" />
 	<!-- Fire Mind -->
 	<locust id="257" tearFlags2="22" gfx="anm2=locust_fire.anm2&animation=locust_fire" color="0-fly_orange" />
 	<!-- Missing No. -->
@@ -289,11 +289,11 @@
 	<!-- Robo-Baby 2.0 -->
 	<locust id="267" tearFlags2="55" gfx="anm2=locust_zap.anm2&animation=locust_zap" />
 	<!-- Headless Baby -->
-	<locust id="269" locustFlags2="15" procChance="0.4" gfx="anm2=locust_drip.anm2&animation=locust_drip" color="0-fly_red&1-fly_darkred" />
+	<locust id="269" locustFlags2="15" procChance="0.5" gfx="anm2=locust_drip.anm2&animation=locust_drip" color="0-fly_red&1-fly_darkred" />
 	<!-- BBF -->
-	<locust id="272" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="272" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Bob's Brain -->
-	<locust id="273" tearFlags2="4" procChance="0.3" locustFlags2="0" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" color="0-fly_green" />
+	<locust id="273" tearFlags2="4" procChance="0.2" locustFlags2="0" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" color="0-fly_green" />
 	<!-- Isaac's Heart -->
 	<locust id="276" tearFlags2="64" gfx="anm2=locust_knockback.anm2&animation=locust_knockback" color="0-fly_blue&1-fly_cyan" />
 	<!-- Lil Haunt -->
@@ -309,11 +309,11 @@
 	<!-- How to Jump -->
 	<locust id="282" speed="6" collisionInterval="1" shootGfx="anm2=locust_dash.anm2&animation=locust_dash" color="0-fly_red" />
 	<!-- D100 -->
-	<locust id="283" locustFlags="3" procChance="0.4" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
+	<locust id="283" locustFlags2="3" procChance="0.4" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
 	<!-- D4 -->
-	<locust id="284" locustFlags="3" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
+	<locust id="284" locustFlags2="3" procChance="0.2" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
 	<!-- D10 -->
-	<locust id="285" locustFlags="3" procChance="0.7" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
+	<locust id="285" locustFlags2="3" procChance="0.7" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
 	<!-- Red Candle -->
 	<locust id="289" tearFlags2="22" gfx="anm2=locust_fire.anm2&animation=locust_fire" color="0-fly_orange" />
 	<!-- Flush! -->
@@ -380,7 +380,7 @@
 	<!-- Glass Cannon -->
 	<locust id="352" damageMultiplier2="5" procChance="0.05" tearFlags="1" gfx="anm2=locust_pulse.anm2&animation=locust_pulse" color="0-fly_yellow&1-fly_red" />
 	<!-- Bomber Boy -->
-	<locust id="353" locustFlags2="0" procChance="0.5" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="353" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Car Battery -->
 	<locust id="356" tearFlags2="55" gfx="anm2=locust_zap.anm2&animation=locust_zap" />
 	<!-- Incubus -->
@@ -389,12 +389,12 @@
 	<!-- Sworn Protector -->
 	<locust id="363" tearFlags="34" gfx="anm2=locust_shield.anm2&animation=locust_shield" color="0-fly_cyan&1-fly_cyan" />
 	<!-- Scatter Bombs -->
-	<locust id="366" scale=".8" locustFlags2="0 2" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
-	<locust id="366" scale=".8" locustFlags2="0 2" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="366" scale=".8" locustFlags2="0 2" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="366" scale=".8" locustFlags2="0 2" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Sticky Bombs -->
-	<locust id="367" tearFlags2="3" locustFlags="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="367" tearFlags2="3" locustFlags="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Curse of the Tower -->
-	<locust id="371" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="371" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Charged Baby -->
 	<locust id="372" tearFlags2="55" gfx="anm2=locust_zap.anm2&animation=locust_zap" />
 	<!-- Holy Light -->
@@ -408,7 +408,7 @@
 	<!-- Friendly Ball -->
 	<locust id="382" tearFlags2="13" procChance=".2" gfx="anm2=locust_charm.anm2&animation=locust_charm" color="0-fly_pink" />
 	<!-- D12 -->
-	<locust id="383" locustFlags="3" procChance="0.3" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
+	<locust id="386" locustFlags2="3" procChance="0.2" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
 	<!-- Bumbo -->
 	<locust id="385" locustFlags="18" />
 	<!-- Censer -->
@@ -428,7 +428,7 @@
 	<!--Maw of the Void -->
 	<locust id="399" locustFlags2="8" procChance="0.3" color="fly_black" />
 	<!-- Explosivo -->
-	<locust id="401" locustFlags2="0" procChance="0.5" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="401" locustFlags2="0" procChance="0.4" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Chaos -->
 	<locust id="402" gfx="anm2=locust_glitch.anm2" locustFlags2="1" procChance="0.3" />
 	<!-- Spider Mod -->
@@ -438,9 +438,9 @@
 	<!-- GB Bug -->
 	<locust id="405" gfx="anm2=locust_glitch.anm2" locustFlags2="3" procChance="0.3" />
 	<!-- D8 -->
-	<locust id="406" locustFlags="3" procChance="0.3" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
+	<locust id="406" locustFlags2="3" procChance="0.2" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
 	<!--Athame -->
-	<locust id="408" locustFlags2="8" procChance="0.5" color="fly_black" />
+	<locust id="408" locustFlags2="8" procChance="0.3" color="fly_black" />
 	<!-- Empty Vessel -->
 	<locust id="409" tearFlags="34" gfx="anm2=locust_shield.anm2&animation=locust_shield" color="0-fly_cyan&1-fly_cyan" />
 	<!-- Crown of Light -->
@@ -460,15 +460,15 @@
 	<!-- Night Light -->
 	<locust id="425" tearFlags2="3" gfx="anm2=locust_slow.anm2&animation=locust_slow" />
 	<!-- Mine Crafter -->
-	<locust id="427" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="427" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Head of the Keeper -->
 	<locust id="429" tearFlags2="53" procChance="0.2" gfx="anm2=locust_gold.anm2&animation=locust_gold" color="0-fly_yellow" />
 	<!-- Glitter Bombs -->
-	<locust id="432" locustFlags2="0 1" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" color="0-fly_pink" />
+	<locust id="432" locustFlags2="0 1" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" color="0-fly_pink" />
 	<!-- Milk! -->
 	<locust id="436" tearFlags="34" gfx="anm2=locust_shield.anm2&animation=locust_shield" color="0-fly_cyan&1-fly_cyan" />
 	<!-- D7 -->
-	<locust id="437" locustFlags="3" procChance="0.3" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
+	<locust id="437" locustFlags2="3" procChance="0.2" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
 	<!-- Mega Blast -->
 	<locust id="441" speed="1" scale="1.8" locustFlags2="12" scale="1.25" gfx="anm2=locust_brim.anm2&animation=locust_brim" />
 	<!--  Apple! -->
@@ -502,7 +502,7 @@
 	<!-- Big Chubby -->
 	<locust id="473" speed=".4" scale="1.2" color="fly_red" />
 	<!-- D1 -->
-	<locust id="476" locustFlags="3" procChance="0.2" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
+	<locust id="476" locustFlags2="3" procChance="0.1" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
 	<!-- Pause -->
 	<locust id="478" tearFlags2="5" gfx="anm2=locust_petrify.anm2&animation=idle" shootGfx="anm2=locust_petrify.anm2&spritesheet=0-petrify_shoot.png&animation=shoot" />
 	<!-- Dataminer -->
@@ -514,7 +514,7 @@
 	<!-- Metronome -->
 	<locust id="488" gfx="anm2=locust_glitch.anm2" locustFlags2="1" procChance="0.2" />
 	<!-- D Infinity -->
-	<locust id="489" locustFlags="3" procChance="0.7" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
+	<locust id="489" locustFlags2="3" procChance="0.6" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
 	<!-- Acid Baby -->
 	<locust id="491" locustFlags2="4" procChance="0.05" gfx="anm2=locust_pulse.anm2&animation=locust_pulse" />
 	<!-- Jacob's Ladder -->
@@ -546,7 +546,7 @@
 	<!-- Broken Modem -->
 	<locust id="514" mutexFlags2="3" tearFlags2="5" procChance2="0.3" tearFlags3="14" procChance3="0.3" gfx="anm2=locust_petrify.anm2&animation=idle" shootGfx="anm2=locust_petrify.anm2&spritesheet=0-petrify_shoot.png&animation=shoot" />
 	<!-- Fast Bombs -->
-	<locust id="517" locustFlags2="0" procChance="0.4" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="517" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Lil Delirium -->
 	<locust id="519" gfx="anm2=locust_glitch.anm2" locustFlags2="1" procChance="0.2" />
 	<!-- Jumper Cables -->
@@ -564,7 +564,7 @@
 	<!-- Slipped Rib -->
 	<locust id="542" tearFlags2="51" gfx="anm2=locust_bone.anm2" />
 	<!-- Hallowed Ground -->
-	<locust id="543" tearFlags2="2 73" procChance="0.3" gfx="anm2=locust_holy.anm2&animation=locust_holy" color="0-fly_fart" />
+	<locust id="543" tearFlags="2" tearFlags2="39 73" procChance="0.3" gfx="anm2=locust_holy.anm2&animation=locust_holy" color="0-fly_fart" />
 	<!-- Pointy Rib -->
 	<locust id="544" tearFlags2="51" gfx="anm2=locust_bone.anm2" />
 	<!-- Book of the Dead -->
@@ -588,7 +588,7 @@
 	<!-- Almond Milk -->
 	<locust id="561" speed="1.3" scale=".60" damageMultiplier=".2" collisionInterval="2" color="fly_red" />
 	<!-- Nancy Bombs -->
-	<locust id="563" locustFlags2="0 1" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" color="0-fly_pink" />
+	<locust id="563" locustFlags2="0 1" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" color="0-fly_pink" />
 	<!-- Divine Intervention -->
 	<locust id="568" tearFlags="34" gfx="anm2=locust_shield.anm2&animation=locust_shield" color="0-fly_cyan&1-fly_cyan" />
 	<!-- Playdough Cookie -->
@@ -603,11 +603,11 @@
 	<locust id="577" locustFlags="2" color="fly_red" />
 	<locust id="577" locustFlags="2" color="fly_red" />
 	<!-- Free Lemonade -->
-	<locust id="578" locustFlags2="14" procChance="0.4" gfx="anm2=locust_drip.anm2&animation=locust_drip" color="0-fly_yellow&1-fly_darkred" />
+	<locust id="578" locustFlags2="14" procChance="0.5" gfx="anm2=locust_drip.anm2&animation=locust_drip" color="0-fly_yellow&1-fly_darkred" />
 	<!-- Psy Fly -->
 	<locust id="581" tearFlags="2 34" overlayGfx="flame.png" overlayColor="fly_darkpurple" color="fly_purple" />
 	<!-- Rocket in a Jar -->
-	<locust id="583" locustFlags2="0" procChance="0.3" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
+	<locust id="583" locustFlags2="0" procChance="0.2" gfx="anm2=locust_bomb.anm2&animation=locust_bomb" />
 	<!-- Venus -->
 	<locust id="591" tearFlags2="13" gfx="anm2=locust_charm.anm2&animation=locust_charm" color="0-fly_pink" />
 	<!-- Terra -->
@@ -615,7 +615,7 @@
 	<!-- Mars -->
 	<locust id="593" speed="6" collisionInterval="1" shootGfx="anm2=locust_dash.anm2&animation=locust_dash" color="0-fly_red" />
 	<!-- Jupiter -->
-	<locust id="594" tearFlags2="4" locustflags2="10" procChance="0.5" gfx="anm2=locust_poof.anm2&animation=locust_poof" color="0-fly_gas&1-fly_green" />
+	<locust id="594" procChance="0.5" locustFlags2="10" gfx="anm2=locust_fart.anm2&animation=locust_fart" color="0-fly_green&1-fly_green" />
 	<!-- Uranus -->
 	<locust id="596" tearFlags2="65" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-ice.png" />
 	<!-- Neptunis -->
@@ -631,7 +631,7 @@
 	<!-- Freezer Baby -->
 	<locust id="608" tearFlags2="65" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-ice.png" />
 	<!-- Eternal D6 -->
-	<locust id="609" locustFlags="3" procChance="0.2" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
+	<locust id="609" locustFlags2="3" procChance="0.2" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
 	<!-- Larynx -->
 	<locust id="611" locustFlags2="7" gfx="anm2=locust_larynx.anm2&animation=locust_larynx" color="1-fly_red" />
 	<!-- Blood Bombs -->
@@ -657,7 +657,7 @@
 	<!-- Knockout Drops -->
 	<locust id="637" tearFlags2="64" gfx="anm2=locust_knockback.anm2&animation=locust_knockback" color="0-fly_blue&1-fly_cyan" />
 	<!-- Eraser -->
-	<locust id="638" locustFlags2="5" procChance=".05" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-eraser.png" />
+	<locust id="638" locustFlags2="5" procChance=".005" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-eraser.png" />
 	<!-- Urn of Souls -->
 	<locust id="640" tearFlags2="22" gfx="anm2=locust_fire.anm2&animation=locust_fire" color="0-fly_orange" />
 	<!-- Revelation -->
@@ -673,7 +673,7 @@
 	<!-- Tooth and Nail -->
 	<locust id="663" tearFlags="34" gfx="anm2=locust_shield.anm2&animation=locust_shield" color="0-fly_cyan&1-fly_cyan" />
 	<!--Lil Abaddon -->
-	<locust id="679" locustFlags2="8" procChance="0.2" color="fly_black" />
+	<locust id="679" locustFlags2="8" procChance="0.1" color="fly_black" />
 	<!-- Montezumas' Revenge -->
 	<locust id="680" tearFlags2="73" procChance="0.2" color="fly_brown" />
 	<!-- Lil' Portal -->
@@ -704,7 +704,7 @@
 	<!-- Anima Sola -->
 	<locust id="722" tearFlags2="5" gfx="anm2=locust_petrify.anm2&animation=idle" shootGfx="anm2=locust_petrify.anm2&spritesheet=0-petrify_shoot.png&animation=shoot" />
 	<!-- Spindown Dice -->
-	<locust id="723" locustFlags="3" procChance="0.3" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
+	<locust id="723" locustFlags2="3" procChance="0.2" gfx="anm2=locust_stone.anm2&animation=locust_stone&spritesheet=0-dice.png" />
 	<!-- IBS -->
 	<locust id="725" tearFlags2="73" procChance="0.2" color="fly_brown" />
 	<!-- Stye -->

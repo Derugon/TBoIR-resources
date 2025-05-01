@@ -710,7 +710,7 @@
 	<familiar	id="682"	achievement="467" gfx="Collectibles_682_WormFriend.png" name="#WORM_FRIEND_NAME" description="#WORM_FRIEND_DESCRIPTION" />
 	<passive	id="683"	achievement="468" gfx="Collectibles_683_BoneSpurs.png" name="#BONE_SPURS_NAME" description="#BONE_SPURS_DESCRIPTION" />
 	<passive	id="684"	achievement="461" gfx="Collectibles_684_HungrySoul.png" name="#HUNGRY_SOUL_NAME" description="#HUNGRY_SOUL_DESCRIPTION" />
-	<active		id="685"	achievement="471" gfx="Collectibles_685_JarOfWisps.png" name="#JAR_OF_WISPS_NAME" description="#JAR_OF_WISPS_DESCRIPTION" maxcharges="6" />
+	<active		id="685"	achievement="471" gfx="Collectibles_685_JarOfWisps.png" name="#JAR_OF_WISPS_NAME" description="#JAR_OF_WISPS_DESCRIPTION" maxcharges="12" />
 	<passive	id="686"	achievement="422" gfx="Collectibles_686_SoulLocket.png" name="#SOUL_LOCKET_NAME" description="#SOUL_LOCKET_DESCRIPTION" cache="all" />
 	<active		id="687"	achievement="473" gfx="Collectibles_687_FriendFinder.png" name="#FRIEND_FINDER_NAME" description="#FRIEND_FINDER_DESCRIPTION" maxcharges="4" />
 	<passive	id="688"	achievement="434" gfx="Collectibles_688_InnerChild.png" name="#INNER_CHILD_NAME" description="#INNER_CHILD_DESCRIPTION" persistent="true" cache="range firedelay speed size" addcostumeonpickup="false" />

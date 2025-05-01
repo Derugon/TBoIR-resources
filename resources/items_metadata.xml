@@ -295,7 +295,7 @@
     <item id="297" quality="2" tags="offensive"/>
     <item id="298" quality="1" tags=""/>
     <item id="299" quality="1" tags="summonable nocantrip stars"/>
-    <item id="300" quality="2" tags="summonable offensive stars"/>
+    <item id="300" quality="2" tags="summonable stars"/>
     <item id="301" quality="3" tags="nolostbr summonable stars"/>
     <item id="302" quality="1" tags="summonable stars"/>
     <item id="303" quality="2" tags="summonable stars"/>
@@ -417,7 +417,7 @@
     <item id="419" quality="3" tags="offensive"/>
     <item id="420" quality="0" tags="summonable offensive"/>
     <item id="421" quality="0" tags="offensive"/>
-    <item id="422" quality="3" craftquality="-1" tags="offensive nocantrip"/>
+    <item id="422" quality="3" craftquality="-1" tags="nocantrip"/>
     <item id="423" quality="2" tags="summonable"/>
     <item id="424" quality="3" tags="summonable offensive"/>
     <item id="425" quality="1" tags="summonable"/>
@@ -477,7 +477,7 @@
     <item id="479" quality="2" tags="offensive"/>
     <item id="480" quality="0" tags="offensive"/>
     <item id="481" quality="0" tags="offensive"/>
-    <item id="482" quality="0" tags="nolostbr nochallenge"/>
+    <item id="482" quality="0" tags="nolostbr nochallenge nodaily"/>
     <item id="483" quality="3" tags="offensive"/>
     <item id="484" quality="1" tags="offensive"/>
     <item id="485" quality="2" tags="offensive"/>

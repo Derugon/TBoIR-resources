@@ -2965,7 +2965,7 @@
 		<!--The Candle-->
 		<Item Id="164" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--D20-->
-		<Item Id="166" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Id="166" Weight="0.1" DecreaseBy="0.1" RemoveOn="0.01"/>
 		<!--Mom's Key-->
 		<Item Id="199" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Fanny Pack-->
@@ -4006,6 +4006,8 @@
 		<Item Id="209" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 		<!--Sad Bombs-->
 		<Item Id="220" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Pyromaniac-->
+		<Item Id="223" Weight="0.2" DecreaseBy="0.1" RemoveOn="0.02"/>
 		<!--Hot Bombs-->
 		<Item Id="256" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 		<!--Bomber Boy-->
