@@ -28028,6 +28028,31 @@ resources/sfx/berserktick.wav
 resources/sfx/bigchubby_attack_01.wav
 resources/sfx/bigchubby_attack_02.wav
 resources/sfx/bigchubby_attack_03.wav
+resources/sfx/bighorn/bighorn_appear.wav
+resources/sfx/bighorn/bighorn_bighole_close.wav
+resources/sfx/bighorn/bighorn_bighole_crack.wav
+resources/sfx/bighorn/bighorn_bighole_open.wav
+resources/sfx/bighorn/bighorn_bighole_shake.wav
+resources/sfx/bighorn/bighorn_death.wav
+resources/sfx/bighorn/bighorn_dizzy_shake.wav
+resources/sfx/bighorn/bighorn_hand_appear_01.wav
+resources/sfx/bighorn/bighorn_hand_appear_02.wav
+resources/sfx/bighorn/bighorn_hand_appear_03.wav
+resources/sfx/bighorn/bighorn_hand_hide_01.wav
+resources/sfx/bighorn/bighorn_hand_hide_02.wav
+resources/sfx/bighorn/bighorn_hand_hide_03.wav
+resources/sfx/bighorn/bighorn_hide.wav
+resources/sfx/bighorn/bighorn_hurt_react.wav
+resources/sfx/bighorn/bighorn_prep_spit.wav
+resources/sfx/bighorn/bighorn_smallhole_close_01.wav
+resources/sfx/bighorn/bighorn_smallhole_close_02.wav
+resources/sfx/bighorn/bighorn_smallhole_close_03.wav
+resources/sfx/bighorn/bighorn_smallhole_crack.wav
+resources/sfx/bighorn/bighorn_smallhole_open_01.wav
+resources/sfx/bighorn/bighorn_smallhole_open_02.wav
+resources/sfx/bighorn/bighorn_smallhole_open_03.wav
+resources/sfx/bighorn/bighorn_smallhole_shake.wav
+resources/sfx/bighorn/bighorn_spit.wav
 resources/sfx/bigleech.wav
 resources/sfx/bigleech2.wav
 resources/sfx/bird flap 2.wav
@@ -28048,6 +28073,7 @@ resources/sfx/blood laser long.wav
 resources/sfx/blood laser short 2.wav
 resources/sfx/blood laser short.wav
 resources/sfx/boil hatch.wav
+resources/sfx/bomb_fuse_fizzle.wav
 resources/sfx/bone drop.wav
 resources/sfx/bone heart.wav
 resources/sfx/bone snap.wav
@@ -28123,6 +28149,8 @@ resources/sfx/bumbo_levelup_01.wav
 resources/sfx/bumbo_levelup_02.wav
 resources/sfx/bumbo_levelup_03.wav
 resources/sfx/bumbo_levelup_04.wav
+resources/sfx/butter_drop.wav
+resources/sfx/butter_land.wav
 resources/sfx/button press.wav
 resources/sfx/candle_light.wav
 resources/sfx/cash_register.wav
@@ -28149,12 +28177,24 @@ resources/sfx/close_railroad_track_raise04.wav
 resources/sfx/close_railroad_track_raise05.wav
 resources/sfx/close_railroad_track_raise07.wav
 resources/sfx/converter.wav
+resources/sfx/crackedorb.wav
+resources/sfx/crookedpenny.wav
+resources/sfx/cubebaby_kick_01.wav
+resources/sfx/cubebaby_kick_02.wav
+resources/sfx/cubebaby_kick_03.wav
+resources/sfx/cubebaby_kick_04.wav
 resources/sfx/cute grunt 2.wav
 resources/sfx/cute grunt 3.wav
 resources/sfx/cute grunt.wav
 resources/sfx/danglewhistle.wav
+resources/sfx/darkbum_payout_01.wav
+resources/sfx/darkbum_payout_02.wav
+resources/sfx/darkbum_payout_03.wav
 resources/sfx/darkesau_appearopen.wav
 resources/sfx/darkesau_deathopen.wav
+resources/sfx/dataminer_01.wav
+resources/sfx/dataminer_02.wav
+resources/sfx/dataminer_03.wav
 resources/sfx/death burst 2.wav
 resources/sfx/death burst small 2.wav
 resources/sfx/death burst small 3.wav
@@ -28254,9 +28294,12 @@ resources/sfx/dogma/static_buildup.wav
 resources/sfx/drip1.wav
 resources/sfx/drop2.wav
 resources/sfx/drop3.wav
+resources/sfx/drsremote_warning.wav
 resources/sfx/edenglitch1.wav
 resources/sfx/edenglitch2.wav
 resources/sfx/edenglitch3.wav
+resources/sfx/enemyappear_wave.wav
+resources/sfx/eraser_hitenemy.wav
 resources/sfx/explosion_debris1.wav
 resources/sfx/explosion_debris2.wav
 resources/sfx/explosion_debris3.wav
@@ -28402,6 +28445,7 @@ resources/sfx/flamethrower start.wav
 resources/sfx/flame_burst.wav
 resources/sfx/flashback.wav
 resources/sfx/flashback2.wav
+resources/sfx/flip_poof.wav
 resources/sfx/floaty baby roar 2.wav
 resources/sfx/floaty baby roar.wav
 resources/sfx/flush.wav
@@ -28427,6 +28471,11 @@ resources/sfx/ghost roar.wav
 resources/sfx/ghost shoot 1.wav
 resources/sfx/ghost shoot 2.wav
 resources/sfx/glass break 01.wav
+resources/sfx/glitterbomb_boom.wav
+resources/sfx/glitterbomb_fuse.wav
+resources/sfx/glowinghourglass_activate.wav
+resources/sfx/glowinghourglass_fizzle.wav
+resources/sfx/gnawedleaf_stone.wav
 resources/sfx/gold heart drop.wav
 resources/sfx/gold heart.wav
 resources/sfx/goldenbomb.wav
@@ -28468,6 +28517,12 @@ resources/sfx/heartin.wav
 resources/sfx/hellboss ground pound 2.wav
 resources/sfx/hellboss ground pound.wav
 resources/sfx/hush charge.wav
+resources/sfx/ibs_gurgle.wav
+resources/sfx/ibs_poop_raise.wav
+resources/sfx/ibs_poop_throw.wav
+resources/sfx/infamy_deflect_01.wav
+resources/sfx/infamy_deflect_02.wav
+resources/sfx/infamy_deflect_03.wav
 resources/sfx/inflate.wav
 resources/sfx/inhale.wav
 resources/sfx/insect swarm.wav
@@ -28493,6 +28548,8 @@ resources/sfx/lazarusflipalive.wav
 resources/sfx/lazarusflipdead.wav
 resources/sfx/leech 2.wav
 resources/sfx/leech.wav
+resources/sfx/lilhaunt_chase.wav
+resources/sfx/lingerbean_cloud.wav
 resources/sfx/little spit 1.wav
 resources/sfx/little spit 2.wav
 resources/sfx/little spit 4.wav
@@ -28502,6 +28559,7 @@ resources/sfx/littlechubby_attack_03.wav
 resources/sfx/littlehorncough.wav
 resources/sfx/littlehorngrunt1.wav
 resources/sfx/littlehorngrunt2.wav
+resources/sfx/littlehorn_shot.wav
 resources/sfx/loops/fire burning.wav
 resources/sfx/loops/insect swarm.wav
 resources/sfx/low inhale.wav
@@ -28528,6 +28586,7 @@ resources/sfx/meaty deaths 1.wav
 resources/sfx/meaty deaths 2.wav
 resources/sfx/meaty deaths 3.wav
 resources/sfx/meaty deaths 4.wav
+resources/sfx/megabean_blast.wav
 resources/sfx/megapuke.wav
 resources/sfx/minecart_loop.wav
 resources/sfx/mirrorbreak1.wav
@@ -28556,6 +28615,8 @@ resources/sfx/mom/mom.wav
 resources/sfx/mom/mom2.wav
 resources/sfx/mom/mom3.wav
 resources/sfx/mom/vox death.wav
+resources/sfx/moms_box.wav
+resources/sfx/moms_random_pill.wav
 resources/sfx/monster grunt 1a.wav
 resources/sfx/monster grunt 1b.wav
 resources/sfx/monster grunt 2a.wav
@@ -28580,6 +28641,9 @@ resources/sfx/monster yell 1.wav
 resources/sfx/monster yell 2.wav
 resources/sfx/monster yell b1.wav
 resources/sfx/monster yell b5.wav
+resources/sfx/monstros_lung_barf_01.wav
+resources/sfx/monstros_lung_barf_02.wav
+resources/sfx/monstros_lung_charge.wav
 resources/sfx/mothershadow/momappear.wav
 resources/sfx/mothershadow/momchargeup1.wav
 resources/sfx/mothershadow/momchargeup2.wav
@@ -28590,10 +28654,14 @@ resources/sfx/mothershadow/momdash3.wav
 resources/sfx/mothershadow/momend.wav
 resources/sfx/mothershadow/momintro.wav
 resources/sfx/mouth full.wav
+resources/sfx/movingbox_pack.wav
+resources/sfx/movingbox_unpack.wav
 resources/sfx/mulit scream.wav
 resources/sfx/multi scream.wav
 resources/sfx/mushroom poof 2.wav
 resources/sfx/mushroom poof.wav
+resources/sfx/pandoras_box.wav
+resources/sfx/pause_freeze.wav
 resources/sfx/pestilence/pestilence appear.wav
 resources/sfx/pestilence/pestilence body shoots.wav
 resources/sfx/pestilence/pestilence death.wav
@@ -28614,6 +28682,7 @@ resources/sfx/pestilence/pestilence_pukestart1.wav
 resources/sfx/pestilence/pestilence_pukestart2.wav
 resources/sfx/pestilence/pestilence_pukestart3.wav
 resources/sfx/pingpong.wav
+resources/sfx/plan_c.wav
 resources/sfx/player/baby hurt 1.wav
 resources/sfx/player/baby hurt 2.wav
 resources/sfx/player/baby hurt 3.wav
@@ -28637,6 +28706,8 @@ resources/sfx/pooplaser3.wav
 resources/sfx/poop_itemhold.wav
 resources/sfx/poop_itemstore.wav
 resources/sfx/poop_itemthrow.wav
+resources/sfx/portableslot_coin.wav
+resources/sfx/portableslot_prize.wav
 resources/sfx/portal_entity_enter.wav
 resources/sfx/portal_entity_loop.wav
 resources/sfx/portal_loop.wav
@@ -28644,6 +28715,7 @@ resources/sfx/pot breaking sound 2.wav
 resources/sfx/pot breaking sound 3.wav
 resources/sfx/pot breaking sound.wav
 resources/sfx/power up spewer amplified.wav
+resources/sfx/pride_zap.wav
 resources/sfx/promo/gfuel/air_horn.wav
 resources/sfx/promo/gfuel/explosion1.wav
 resources/sfx/promo/gfuel/explosion2.wav
@@ -28686,6 +28758,7 @@ resources/sfx/redlightning_medium3.wav
 resources/sfx/reverse explosion 0.wav
 resources/sfx/reverse explosion 1.wav
 resources/sfx/reverse explosion 2.wav
+resources/sfx/rkey.wav
 resources/sfx/rock crumble 0.wav
 resources/sfx/rock crumble 2.wav
 resources/sfx/rock crumble 3.wav
@@ -28707,6 +28780,9 @@ resources/sfx/rocketlaunch_02.wav
 resources/sfx/rocketlaunch_03.wav
 resources/sfx/rottenheart1.wav
 resources/sfx/rottenheart2.wav
+resources/sfx/rubber_cement_01.wav
+resources/sfx/rubber_cement_02.wav
+resources/sfx/rubber_cement_03.wav
 resources/sfx/satan/hand laser.wav
 resources/sfx/satan/satan appear.wav
 resources/sfx/satan/satan blast 1.wav
@@ -28736,6 +28812,7 @@ resources/sfx/scythe break 2.wav
 resources/sfx/scythe break.wav
 resources/sfx/shakey kid roar 2.wav
 resources/sfx/shakey kid roar.wav
+resources/sfx/sharp_plug.wav
 resources/sfx/shell game 0.wav
 resources/sfx/shell game 1.wav
 resources/sfx/shovel dig.wav
@@ -28754,6 +28831,12 @@ resources/sfx/siren/siren_singingattack.wav
 resources/sfx/skin pull 1.wav
 resources/sfx/skin pull 2.wav
 resources/sfx/skin pull 3.wav
+resources/sfx/slipped_rib_deflect_01.wav
+resources/sfx/slipped_rib_deflect_02.wav
+resources/sfx/slipped_rib_deflect_03.wav
+resources/sfx/slipped_rib_deflect_04.wav
+resources/sfx/slipped_rib_deflect_05.wav
+resources/sfx/smelter_swallow.wav
 resources/sfx/soulpickup1.wav
 resources/sfx/soulpickup2.wav
 resources/sfx/soulpickup3.wav
@@ -28779,14 +28862,18 @@ resources/sfx/stone_impact3.wav
 resources/sfx/stone_impact_small_08.wav
 resources/sfx/stone_impact_small_09.wav
 resources/sfx/stone_impact_small_23.wav
+resources/sfx/summonpenta_wave.wav
 resources/sfx/sword_spin1.wav
 resources/sfx/sword_spin2.wav
 resources/sfx/tear block.wav
 resources/sfx/tear fire 4.wav
 resources/sfx/tear fire 5.wav
+resources/sfx/telekenesis.wav
 resources/sfx/theforsakenlaugh.wav
 resources/sfx/theforsakenscream.wav
 resources/sfx/thestainburst.wav
+resources/sfx/thetick_burn.wav
+resources/sfx/the_d6_roll.wav
 resources/sfx/thread_snap.wav
 resources/sfx/thumbs down amplified.wav
 resources/sfx/thumbs up amplified.wav
@@ -28800,6 +28887,7 @@ resources/sfx/tooth_and_nail_03.wav
 resources/sfx/tooth_and_nail_tick_01.wav
 resources/sfx/tooth_and_nail_tick_02.wav
 resources/sfx/tooth_and_nail_tick_03.wav
+resources/sfx/undefined_teleport.wav
 resources/sfx/unholy!.wav
 resources/sfx/urnclose.wav
 resources/sfx/urnopen.wav
@@ -29102,6 +29190,7 @@ resources/sfx/voiceover/x lax 2.wav
 resources/sfx/voiceover/___-2.wav
 resources/sfx/voiceover/___-3.wav
 resources/sfx/voiceover/___.wav
+resources/sfx/void_consumed.wav
 resources/sfx/war/war appear.wav
 resources/sfx/war/war appears from lava.wav
 resources/sfx/war/war bomb toss 1.wav
@@ -29149,6 +29238,7 @@ resources/sfx/wood_plankbreaks2.wav
 resources/sfx/worm spit 1.wav
 resources/sfx/worm spit 2.wav
 resources/sfx/worm spit 3.wav
+resources/sfx/yolisten_chime.wav
 resources/sfx/zombie walker kid 2.wav
 resources/sfx/zombie walker kid.wav
 resources/shaders/bg.fs
