@@ -55,7 +55,7 @@
     <item id="55" quality="1" tags="summonable mom offensive"/>
     <item id="56" quality="0" tags="offensive"/>
     <item id="57" quality="1" tags="summonable monstermanual offensive fly"/>
-    <item id="58" quality="3" craftquality="2" tags="book offensive"/>
+    <item id="58" quality="3" craftquality="2" tags="book"/>
     <item id="59" quality="0" tags=""/>
     <item id="60" quality="1" tags="nolostbr summonable"/>
     <item id="62" quality="2" tags="nolostbr summonable nocantrip"/>
@@ -295,7 +295,7 @@
     <item id="297" quality="2" tags="offensive"/>
     <item id="298" quality="1" tags=""/>
     <item id="299" quality="1" tags="summonable nocantrip stars"/>
-    <item id="300" quality="2" tags="summonable stars"/>
+    <item id="300" quality="2" tags="summonable offensive stars"/>
     <item id="301" quality="3" tags="nolostbr summonable stars"/>
     <item id="302" quality="1" tags="summonable stars"/>
     <item id="303" quality="2" tags="summonable stars"/>

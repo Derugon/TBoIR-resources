@@ -2762,5 +2762,146 @@
 	<sound id="872">
 		<sample weight="1" path="enemyappear_wave.wav" />
 	</sound>
+	<sound id="873">
+		<sample weight="1" path="BigHorn/bighorn_appear.wav" />
+	</sound>
+	<sound id="874">
+		<sample weight="1" path="BigHorn/bighorn_bighole_close.wav" />
+	</sound>
+	<sound id="875">
+		<sample weight="1" path="BigHorn/bighorn_bighole_crack.wav" />
+	</sound>
+	<sound id="876">
+		<sample weight="1" path="BigHorn/bighorn_bighole_open.wav" />
+	</sound>
+	<sound id="877">
+		<sample weight="1" path="BigHorn/bighorn_bighole_shake.wav" />
+	</sound>
+	<sound id="878">
+		<sample weight="1" path="BigHorn/bighorn_death.wav" />
+	</sound>
+	<sound id="879">
+		<sample weight="1" path="BigHorn/bighorn_dizzy_shake.wav" />
+	</sound>
+	<sound id="880">
+		<sample weight="1" path="BigHorn/bighorn_hand_appear_01.wav" />
+		<sample weight="1" path="BigHorn/bighorn_hand_appear_02.wav" />
+		<sample weight="1" path="BigHorn/bighorn_hand_appear_03.wav" />
+	</sound>
+	<sound id="881">
+		<sample weight="1" path="BigHorn/bighorn_hand_hide_01.wav" />
+		<sample weight="1" path="BigHorn/bighorn_hand_hide_02.wav" />
+		<sample weight="1" path="BigHorn/bighorn_hand_hide_03.wav" />
+	</sound>
+	<sound id="882">
+		<sample weight="1" path="BigHorn/bighorn_hide.wav" />
+	</sound>
+	<sound id="883">
+		<sample weight="1" path="BigHorn/bighorn_hurt_react.wav" />
+	</sound>
+	<sound id="884">
+		<sample weight="1" path="BigHorn/bighorn_prep_spit.wav" />
+	</sound>
+	<sound id="885">
+		<sample weight="1" path="BigHorn/bighorn_smallhole_close_01.wav" />
+		<sample weight="1" path="BigHorn/bighorn_smallhole_close_02.wav" />
+		<sample weight="1" path="BigHorn/bighorn_smallhole_close_03.wav" />
+	</sound>
+	<sound id="886">
+		<sample weight="1" path="BigHorn/bighorn_smallhole_crack.wav" />
+	</sound>
+	<sound id="887">
+		<sample weight="1" path="BigHorn/bighorn_smallhole_open_01.wav" />
+		<sample weight="1" path="BigHorn/bighorn_smallhole_open_02.wav" />
+		<sample weight="1" path="BigHorn/bighorn_smallhole_open_03.wav" />
+	</sound>
+	<sound id="888">
+		<sample weight="1" path="BigHorn/bighorn_smallhole_shake.wav" />
+	</sound>
+	<sound id="889">
+		<sample weight="1" path="BigHorn/bighorn_spit.wav" />
+	</sound>
+	<sound id="890">
+		<sample weight="1" path="moms_box.wav" />
+	</sound>
+	<sound id="891">
+		<sample weight="1" path="monstros_lung_barf_01.wav" />
+		<sample weight="1" path="monstros_lung_barf_02.wav" />
+	</sound>
+	<sound id="892">
+		<sample weight="1" path="movingbox_pack.wav" />
+	</sound>
+	<sound id="893">
+		<sample weight="1" path="movingbox_unpack.wav" />
+	</sound>
+	<sound id="894">
+		<sample weight="1" path="pandoras_box.wav" />
+	</sound>
+	<sound id="895">
+		<sample weight="1" path="pause_freeze.wav" />
+	</sound>
+	<sound id="896">
+		<sample weight="1" path="monstros_lung_charge.wav" />
+	</sound>
+	<sound id="897">
+		<sample weight="1" path="plan_c.wav" />
+	</sound>
+	<sound id="898">
+		<sample weight="1" path="portableslot_coin.wav" />
+	</sound>
+	<sound id="899">
+		<sample weight="1" path="portableslot_prize.wav" />
+	</sound>
+	<sound id="900">
+		<sample weight="1" path="bomb_fuse_fizzle.wav" />
+	</sound>
+	<sound id="901">
+		<sample weight="1" path="butter_drop.wav" />
+	</sound>
+	<sound id="902">
+		<sample weight="1" path="butter_land.wav" />
+	</sound>
+	<sound id="903">
+		<sample weight="1" path="pride_zap.wav" />
+	</sound>
+	<sound id="904">
+		<sample weight="1" path="rkey.wav" />
+	</sound>
+	<sound id="905">
+		<sample weight="1" path="rubber_cement_01.wav" />
+		<sample weight="1" path="rubber_cement_02.wav" />
+		<sample weight="1" path="rubber_cement_03.wav" />
+	</sound>
+	<sound id="906">
+		<sample weight="1" path="sharp_plug.wav" />
+	</sound>
+	<sound id="907">
+		<sample weight="1" path="slipped_rib_deflect_01.wav" />
+		<sample weight="1" path="slipped_rib_deflect_02.wav" />
+		<sample weight="1" path="slipped_rib_deflect_03.wav" />
+		<sample weight="1" path="slipped_rib_deflect_04.wav" />
+		<sample weight="1" path="slipped_rib_deflect_05.wav" />
+	</sound>
+	<sound id="908">
+		<sample weight="1" path="smelter_swallow.wav" />
+	</sound>
+	<sound id="909">
+		<sample weight="1" path="telekenesis.wav" />
+	</sound>
+	<sound id="910">
+		<sample weight="1" path="the_d6_roll.wav" />
+	</sound>
+	<sound id="911">
+		<sample weight="1" path="thetick_burn.wav" />
+	</sound>
+	<sound id="912">
+		<sample weight="1" path="undefined_teleport.wav" />
+	</sound>
+	<sound id="913">
+		<sample weight="1" path="void_consumed.wav" />
+	</sound>
+	<sound id="914">
+		<sample weight="1" path="yolisten_chime.wav" />
+	</sound>
 <!-- REPENTANCE+ END -->
 </sounds>
