@@ -117,7 +117,9 @@
 	<costume id="125" anm2path="n_double_guppyseye.anm2" type="none" hasSkinAlt="true" />
 	<costume id="126" anm2path="n_double_glasseye.anm2" type="none" hasSkinAlt="true" />
 	
-	<costume anm2path="034_The Book of Belial.anm2" id="129" type="none" hasSkinAlt="true" />
+	<costume id="129" anm2path="034_The Book of Belial.anm2" type="none" hasSkinAlt="true" />
+	
+	<costume id="132" anm2path="n_lost_body.anm2" priority="101" type="none" isFlying="true"/>
 	
 <!-- REPENTANCE END -->
 	

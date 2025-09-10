@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <stringtable>
-    <info version="1.0" modified="Fri Apr 11 17:34:24 2025" modifiedby="John"/>
+    <info version="1.0" modified="Wed Aug 13 15:19:00 2025" modifiedby="Jerm"/>
     <languages>
         <language id="21" index="0" name="Key"/>
         <language id="0" index="1" name="English"/>
@@ -212,6 +212,16 @@
             <string>Emote:</string>
             <string>Emote:</string>
             <string>Emote:</string>
+        </key>
+        <key name="INPUT_DESCRIPTIONS">
+            <string>Toggle Descriptions:</string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
         </key>
         <key name="INPUT_FULLSCREEN">
             <string>Fullscreen:</string>
@@ -512,6 +522,16 @@
             <string>Erwachsen!</string>
             <string>¡Adulto!</string>
             <string>Adulte !</string>
+        </key>
+        <key name="TRANSFORMATION_NECROMANCER">
+            <string>Necromancer!</string>
+            <string> </string>
+            <string> </string>
+            <string> </string>
+            <string> </string>
+            <string> </string>
+            <string> </string>
+            <string> </string>
         </key>
         <key name="MINIMAP_TIME_LABEL">
             <string>Time:</string>
@@ -1285,6 +1305,66 @@
         </key>
         <key name="PROMPT_EXIT">
             <string>Exit</string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+        </key>
+        <key name="ITEM_INFO_UNIDENTIFIED">
+            <string>Collect this item once to identify it</string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+        </key>
+        <key name="ITEM_INFO_UNIDENTIFIED_PILL">
+            <string>Unidentified Pill</string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+        </key>
+        <key name="ITEM_INFO_UNIDENTIFIED_TAROT_CARD">
+            <string>Tarot Card</string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+        </key>
+        <key name="ITEM_INFO_UNIDENTIFIED_PLAYING_CARD">
+            <string>Playing Card</string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+        </key>
+        <key name="ITEM_INFO_UNIDENTIFIED_RUNE">
+            <string>Rune</string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+            <string></string>
+        </key>
+        <key name="ITEM_INFO_UNIDENTIFIED_Card">
+            <string>Card</string>
             <string></string>
             <string></string>
             <string></string>

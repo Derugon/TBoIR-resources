@@ -14,4 +14,5 @@
 	<form id="12" name="#TRANSFORMATION_SPIDER_BABY" costume="39" tags="spider" cache="familiars" />
 	<form id="13" name="#TRANSFORMATION_STOMPY" />
 	<!-- <form id="14" name="#UNUSED_Transform_Flight" /> -->
+	<form id="15" name="#TRANSFORMATION_NECROMANCER" />
 </playerforms>

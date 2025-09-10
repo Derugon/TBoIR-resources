@@ -996,9 +996,10 @@ end
 
 -- boolean EntityPlayer:HasInvincibility(DamageFlag Flags = 0)
 local Entity_Player_HasInvincibility = META0.HasInvincibility
-function META:HasInvincibility(damageFlags)
-	return Entity_Player_HasInvincibility(self, damageFlags or 0)
+function META:HasInvincibility(damageFlags, source)
+    return Entity_Player_HasInvincibility(self, damageFlags or 0, source or EntityRef(nil))
 end
+  
 
 -- MultiShotParams EntityPlayer:GetMultiShotParams(WeaponType WeaponType = WeaponType.WEAPON_TEARS)
 local Entity_Player_GetMultiShotParams = META0.GetMultiShotParams
@@ -1186,4 +1187,5 @@ if not _LUADEBUG then
 	arg = nil
 	dofile = nil
 	loadfile = nil
+	load = nil
 end

@@ -229,14 +229,14 @@ function decode_scanNumber(s,startPos)
   local stringLen = string.len(s)
   local acceptableChars = "+-0123456789.e"
   while (string.find(acceptableChars, string.sub(s,endPos,endPos), 1, true)
-	and endPos<=stringLen
-	) do
+    and endPos<=stringLen
+    ) do
     endPos = endPos + 1
   end
-  local stringValue = 'return ' .. string.sub(s,startPos, endPos-1)
-  local stringEval = load(stringValue)
+  local stringValue = string.sub(s,startPos, endPos-1)
+  local stringEval = tonumber(stringValue)
   assert(stringEval, 'Failed to scan number [ ' .. stringValue .. '] in JSON string at position ' .. startPos .. ' : ' .. endPos)
-  return stringEval(), endPos
+  return stringEval, endPos
 end
 
 --- Scans a JSON object into a Lua object.

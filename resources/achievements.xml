@@ -933,9 +933,10 @@
 	<achievement id="636" text='"Death Certificate" has appeared in the basement' gfx="Achievement_DeathCertificate.png" steam_name="Death Certificate" steam_description="" steam_icon="Achievement_DeathCertificate.png" />
 	<achievement id="637" text="" gfx="Achievement_DeadGod.png" steam_name="Dead God" steam_description="" steam_icon="Achievement_DeadGod.png" />
 	
-	<!-- Online Patch -->
-	<achievement id="638" text="Played Online" gfx="Achievement_PlayOnline.png" steam_name="Play Online" steam_description="Played Online" steam_icon="Achievement_DeadGod.png" />
-	<achievement id="639" text="Won Online" gfx="Achievement_WinOnline.png" steam_name="Win Online" steam_description="Won Online" steam_icon="Achievement_DeadGod.png" />
-	<achievement id="640" text="Won Online Daily" gfx="Achievement_WinOnlineDaily.png" steam_name="Win Online Daily" steam_description="Won Online Daily" steam_icon="Achievement_DeadGod.png" />
+	<!-- Repentance+ -->
+	<achievement id="638" text="Played Online" gfx="Achievement_PlayOnline.png" steam_name="Play Online" steam_description="Played Online" steam_icon="Achievement_PlayOnline.png" />
+	<achievement id="639" text="Won Online" gfx="Achievement_WinOnline.png" steam_name="Win Online" steam_description="Won Online" steam_icon="Achievement_WinOnline.png" />
+	<achievement id="640" text="Won Online Daily" gfx="Achievement_WinOnlineDaily.png" steam_name="Win Online Daily" steam_description="Won Online Daily" steam_icon="Achievement_WinOnlineDaily.png" />
+	<achievement id="641" text="Item Info" gfx="Achievement_ItemDescriptions.png" steam_name="Item Info" steam_descritption="Item Info" steam_icon="Achievement_ItemDescriptions.png" />
 
 </achievements>
