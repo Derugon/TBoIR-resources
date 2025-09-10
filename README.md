@@ -47,6 +47,7 @@ The `latest` branch contains resources from the latest game version: 1.9.7.7.J15
 | Repentance+  | 2025-02-14 04:00:12 | 1.9.7.10.J212 |                        |
 | Repentance+  | 2025-05-01 02:00:29 | 1.9.7.11.J269 |                        |
 | Repentance+  | 2025-05-03 02:40:06 | 1.9.7.12.J273 |                        |
+| Repentance+  | 2025-09-10 00:54:07 | 1.9.7.13.J359 |                        |
 
 ### Notes
 - Executables, compressed files, and tools are not included. The intent behind this repository is to simplify wiki maintenance, not for hacking the game.
