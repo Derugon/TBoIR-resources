@@ -642,7 +642,7 @@
 		<info collectible="706" text="&lt;color=0xFFc30404&gt;x1 explosive poison locust .75x Isaac's damage"/>
 	</collectible>
 	<collectible id="141">
-		<info text="Spawns 7 random coins on pickup"/>
+		<info text="Spawns 7 random coins and one random penny trinket on pickup"/>
 		<info collectible="706" text="&lt;color=0xFFc30404&gt;x1 locust .5x Isaac's damage"/>
 	</collectible>
 	<collectible id="142">
@@ -3852,12 +3852,12 @@
 		<info text="Tears have slightly more knockback"/>
 	</trinket>
 	<trinket id="13">
-		<info collectible="0" text="Your next shop purchase is free"/>
-		<info collectible="0" tag="2" text="Making a purchase consumes this trinket"/>
-		<info collectible="0" tag="1" text="Making a purchase has a 25% chance to replace the golden trinket with the standard one"/>
+		<info text="Your next shop purchase is free"/>
+		<info tag="2" text="Making a purchase consumes this trinket"/>
+		<info tag="1" text="Making a purchase has a 25% chance to replace the golden trinket with the standard one"/>
 	</trinket>
 	<trinket id="14">
-		<info collectible="0" text="Grants immunity to damage from spikes and creep"/>
+		<info text="Grants immunity to damage from spikes and creep"/>
 		<info notcollectible="439" tag="1" text="Sacrifice spikes only damage Isaac for 1/2 heart"/>
 		<info collectible="439" tag="2" text="Sacrifice spikes only damage Isaac for 1/2 heart"/>
 		<info collectible="439" tag="1" text="All damage is reduced to 1/2 heart"/>
@@ -3887,7 +3887,7 @@
 		<info collectible="439" tag="1" text="9% increased chance of finding eternal hearts"/>
 	</trinket>
 	<trinket id="19">
-		<info text="Locked chests can be opened without using a key"/>
+		<info notcollectible="439" tag="2" text="Locked chests can be opened without using a key"/>
 		<info notcollectible="439" tag="1" text="Locked chests and blocks can be opened without using a key"/>
 		<info collectible="439" tag="2" text="Locked chests and blocks can be opened without using a key"/>
 		<info collectible="439" tag="1" text="Locked chests, doors, and blocks can be opened without using a key"/>
@@ -3935,12 +3935,6 @@
 		<info notcollectible="439" tag="1" text="Tears travel in a larger square wave-like pattern"/>
 		<info collectible="439" tag="2" text="Tears travel in a larger square wave-like pattern"/>
 		<info collectible="439" tag="1" text="Tears travel in a very large square wave-like pattern"/>
-	</trinket>
-	<trinket id="27">
-		<info notcollectible="439" tag="2" text="+0.5 shot speed"/>
-		<info notcollectible="439" tag="1" text="+1 shot speed"/>
-		<info collectible="439" tag="2" text="+1 shot speed"/>
-		<info collectible="439" tag="1" text="+1.5 shot speed"/>
 	</trinket>
 	<trinket id="28">
 		<info notcollectible="439" tag="2" text="Grants a 22% chance to revive as ??? upon death"/>
@@ -4155,7 +4149,7 @@
 		<info text="Chance increases with luck"/>
 	</trinket>
 	<trinket id="61">
-		<info notcollectible="439" tag="2" text="Replaces all chests that spawn with red chests"/>
+		<info notcollectible="439" text="Replaces all chests that spawn with red chests"/>
 		<info notcollectible="439" tag="1" text="Red chests drop an additional pickup"/>
 		<info collectible="439" tag="2" text="Red chests drop an additional pickup"/>
 		<info collectible="439" tag="1" text="Red chests drop an additional pickup and can't drop enemy spiders"/>
@@ -4401,7 +4395,7 @@
 		<info collectible="439" tag="1" text="Both secret rooms are revealed on the map"/>
 	</trinket>
 	<trinket id="103">
-		<info text="While all coins, bombs, and keys are equal:"/>
+		<info text="Grants a large fire rate increase when collected coins, bombs, and keys are all equal in number"/>
 	</trinket>
 	<trinket id="104">
 		<info notcollectible="439" tag="2" text="5% chance when taking damage to destroy the trinket and spawn an item from the current room's pool"/>
@@ -4776,10 +4770,10 @@
 	</trinket>
 	<trinket id="163">
 		<info text="Dip enemies become friendly"/>
-		<info notcollectible="439" tag="2" text="On room clear, 33% chance to transform into Azazel until the end of the next room"/>
-		<info notcollectible="439" tag="1" text="On room clear, 50% chance to transform into Azazel until the end of the next room"/>
-		<info collectible="439" tag="2" text="On room clear, 50% chance to transform into Azazel until the end of the next room"/>
-		<info collectible="439" tag="1" text="On room clear, 100% chance to transform into Azazel until the end of the next room"/>
+		<info notcollectible="439" tag="2" text="On room clear, spawns a friendly dip"/>
+		<info notcollectible="439" tag="1" text="On room clear, spawns 2 friendly dips"/>
+		<info collectible="439" tag="2" text="On room clear, spawns 2 friendly dips"/>
+		<info collectible="439" tag="1" text="On room clear, spawns 3 friendly dips"/>
 	</trinket>
 	<trinket id="164">
 		<info notcollectible="439" tag="2" text="Placing a bomb drops an additional bomb for free"/>
@@ -4893,7 +4887,7 @@
 		<info text="Familiars mimic Isaac's movement and can be controlled"/>
 		<info notcollectible="439" tag="1" text="Familiars deal 2 contact damage"/>
 		<info collectible="439" tag="2" text="Familiars deal 2 contact damage"/>
-		<info collectible="439" tag="1" text="Familairs deal 5 contact damage"/>
+		<info collectible="439" tag="1" text="Familiars deal 5 contact damage"/>
 	</trinket>
 	<trinket id="180">
 		<info notcollectible="439" text="Grants a controllable soul familiar that does 50% of Isaac's damage and mimics all other stats"/>

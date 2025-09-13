@@ -357,8 +357,8 @@ BeginClass(ItemPool)
 
 -- CollectibleType ItemPool:GetCollectible(ItemPoolType PoolType, boolean Decrease = false, int Seed = Random(), CollectibleType DefaultItem = CollectibleType.COLLECTIBLE_NULL)
 local ItemPool_GetCollectible = META0.GetCollectible
-function META:GetCollectible(poolType, decrease, seed, defaultItem)
-	return ItemPool_GetCollectible(self, poolType, seed or Random(), (decrease and 0) or 1, defaultItem or 0)
+function META:GetCollectible(poolType, decrease, seed, defaultItem, backupPool)
+	return ItemPool_GetCollectible(self, poolType, seed or Random(), (decrease and 0) or 1, defaultItem or 0, backupPool or -1)
 end
 
 -- TrinketType ItemPool:GetTrinket(boolean DontAdvanceRNG = false)
