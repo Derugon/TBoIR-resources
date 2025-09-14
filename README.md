@@ -5,7 +5,7 @@ Resources of *The Binding of Isaac: Rebirth*, for each game version.
 
 Each branch contains the resource folders of the game. Branch names match game version names, and may include a `-hotfix<N>` suffix when a version was re-released with the same version number.
 
-The `latest` branch contains resources from the latest game version: 1.9.7.7.J158.
+The `latest` branch contains resources from the latest game version.
 
 ### Version list
 
