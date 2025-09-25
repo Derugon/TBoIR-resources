@@ -3483,7 +3483,7 @@
 		<info collectible="706" text="&lt;color=0xFFc30404&gt;x1 bone locust 1x Isaac's damage"/>
 	</collectible>
 	<collectible id="684">
-		<info text="Spawns a red ghost each time an enemy dies"/>
+		<info text="33% chance to spawn a red ghost each time an enemy dies"/>
 		<info text="These ghosts target and crash into other enemies, bursting and damaging them on contact"/>
 		<info collectible="706" text="&lt;color=0xFFc30404&gt;x1 locust 1x Isaac's damage"/>
 	</collectible>
@@ -3532,9 +3532,9 @@
 		<info collectible="706" text="&lt;color=0xFFc30404&gt;x1 locust .75x Isaac's damage"/>
 	</collectible>
 	<collectible id="693">
-		<info text="Grants 9 orbital flies on pickup"/>
+		<info text="Grants 8 orbital flies on pickup"/>
 		<info text="Each fly can block 1 enemy projectile, and transforms into a blue fly on death"/>
-		<info text="Every cleared room grants 1 new fly, up to the maximum of 9"/>
+		<info text="Every cleared room grants 1 new fly, up to the maximum of 16"/>
 		<info collectible="706" text="&lt;color=0xFFc30404&gt;x3 small shield locusts 1x Isaac's damage"/>
 	</collectible>
 	<collectible id="694">
@@ -4387,6 +4387,12 @@
 		<info collectible="439" tag="2" text="20% chance to fire a bouncing tear"/>
 		<info collectible="439" tag="1" text="33% chance to fire a bouncing tear"/>
 		<info text="Chance increases with luck"/>
+	</trinket>
+	<trinket id="100">
+		<info text="Grants an increase to all stats when held active item is at full charge"/>
+	</trinket>
+	<trinket id="101">
+		<info text="Grants an increase to all stats when held active item's charge is fully depleted"/>
 	</trinket>
 	<trinket id="102">
 		<info text="New floors will generate an additional secret room"/>

@@ -3264,6 +3264,8 @@
 		<Item Id="259" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Missing Page 2-->
 		<Item Id="262" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Dry Baby-->
+		<Item Id="265" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Rotten Baby-->
 		<Item Id="268" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Headless Baby-->
